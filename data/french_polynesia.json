@@ -1,0 +1,41 @@
+{
+  "name": "French Polynesia",
+  "altSpellings": [
+    "PF",
+    "Polynésie française",
+    "French Polynesia",
+    "Pōrīnetia Farāni"
+  ],
+  "area": 4167,
+  "borders": [],
+  "callingCodes": ["689"],
+  "capital": "Papeetē",
+  "currencies": ["XPF"],
+  "demonym": "French Polynesian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "PF", "alpha3": "PYF" },
+  "languages": ["fr"],
+  "latlng": [-15, -140],
+  "nativeName": "Polynésie française",
+  "population": 268270,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": null,
+  "tld": [".pf"],
+  "translations": {
+    "de": "Französisch-Polynesien",
+    "es": "Polinesia Francesa",
+    "fr": "Polynésie française",
+    "ja": "フランス領ポリネシア",
+    "it": "Polinesia Francese"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/french_polynesia",
+  "states": [
+    { "name": "Archipel des Marquises", "abbreviation": "", "country": "PF" },
+    { "name": "Archipel des Tuamotu", "abbreviation": "", "country": "PF" },
+    { "name": "Archipel des Tubuai", "abbreviation": "", "country": "PF" },
+    { "name": "Iles du Vent", "abbreviation": "", "country": "PF" },
+    { "name": "Iles Sous-le-Vent", "abbreviation": "", "country": "PF" }
+  ]
+}

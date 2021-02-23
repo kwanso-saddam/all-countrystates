@@ -1,0 +1,86 @@
+{
+  "name": "Taiwan",
+  "altSpellings": [
+    "TW",
+    "Táiwān",
+    "Republic of China",
+    "中華民國",
+    "Zhōnghuá Mínguó"
+  ],
+  "area": 36193,
+  "borders": [],
+  "callingCodes": ["886"],
+  "capital": "Taipei",
+  "currencies": ["TWD"],
+  "demonym": "Taiwanese",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "TWN",
+        "properties": { "name": "Taiwan" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [121.777818, 24.394274],
+              [121.175632, 22.790857],
+              [120.74708, 21.970571],
+              [120.220083, 22.814861],
+              [120.106189, 23.556263],
+              [120.69468, 24.538451],
+              [121.495044, 25.295459],
+              [121.951244, 24.997596],
+              [121.777818, 24.394274]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "ISO": { "alpha2": "TW", "alpha3": "TWN" },
+  "languages": ["zh"],
+  "latlng": [23.5, 121],
+  "nativeName": "臺灣",
+  "population": 23424615,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "timezones": ["UTC+08:00"],
+  "tld": [".tw"],
+  "translations": {
+    "de": "Taiwan",
+    "es": "Taiwán",
+    "fr": "Taïwan",
+    "ja": "台湾（台湾省/中華民国）",
+    "it": "Taiwan"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/taiwan",
+  "states": [
+    { "name": "Chang-hua", "abbreviation": "", "country": "TW" },
+    { "name": "Chi-lung", "abbreviation": "", "country": "TW" },
+    { "name": "Chia-i", "abbreviation": "", "country": "TW" },
+    { "name": "Chia-i", "abbreviation": "", "country": "TW" },
+    { "name": "Chung-hsing-hsin-ts'un", "abbreviation": "", "country": "TW" },
+    { "name": "Hsin-chu", "abbreviation": "", "country": "TW" },
+    { "name": "Hsin-chu", "abbreviation": "", "country": "TW" },
+    { "name": "Hua-lien", "abbreviation": "", "country": "TW" },
+    { "name": "I-lan", "abbreviation": "", "country": "TW" },
+    { "name": "Kao-hsiung", "abbreviation": "", "country": "TW" },
+    { "name": "Kao-hsiung", "abbreviation": "", "country": "TW" },
+    { "name": "Miao-li", "abbreviation": "", "country": "TW" },
+    { "name": "Nan-t'ou", "abbreviation": "", "country": "TW" },
+    { "name": "P'eng-hu", "abbreviation": "", "country": "TW" },
+    { "name": "P'ing-tung", "abbreviation": "", "country": "TW" },
+    { "name": "T'ai-chung", "abbreviation": "", "country": "TW" },
+    { "name": "T'ai-chung", "abbreviation": "", "country": "TW" },
+    { "name": "T'ai-nan", "abbreviation": "", "country": "TW" },
+    { "name": "T'ai-nan", "abbreviation": "", "country": "TW" },
+    { "name": "T'ai-pei", "abbreviation": "", "country": "TW" },
+    { "name": "T'ai-pei", "abbreviation": "", "country": "TW" },
+    { "name": "T'ai-tung", "abbreviation": "", "country": "TW" },
+    { "name": "T'ao-yuan", "abbreviation": "", "country": "TW" },
+    { "name": "Yun-lin", "abbreviation": "", "country": "TW" }
+  ]
+}

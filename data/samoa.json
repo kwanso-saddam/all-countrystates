@@ -1,0 +1,46 @@
+{
+  "name": "Samoa",
+  "altSpellings": [
+    "WS",
+    "Independent State of Samoa",
+    "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+  ],
+  "area": 2842,
+  "borders": [],
+  "callingCodes": ["685"],
+  "capital": "Apia",
+  "currencies": ["WST"],
+  "demonym": "Samoan",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "WS", "alpha3": "WSM" },
+  "languages": ["sm", "en"],
+  "latlng": [-13.58333333, -172.33333333],
+  "nativeName": "Samoa",
+  "population": 187820,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": ["UTC+13:00"],
+  "tld": [".ws"],
+  "translations": {
+    "de": "Samoa",
+    "es": "Samoa",
+    "fr": "Samoa",
+    "ja": "サモア",
+    "it": "Samoa"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/samoa",
+  "states": [
+    { "name": "A'ana", "abbreviation": "AA", "country": "WS" },
+    { "name": "Aiga-i-le-Tai", "abbreviation": "AL", "country": "WS" },
+    { "name": "Atua", "abbreviation": "AT", "country": "WS" },
+    { "name": "Fa'asaleleaga", "abbreviation": "FA", "country": "WS" },
+    { "name": "Gaga'emauga", "abbreviation": "GE", "country": "WS" },
+    { "name": "Gagaifomauga", "abbreviation": "", "country": "WS" },
+    { "name": "Palauli", "abbreviation": "PA", "country": "WS" },
+    { "name": "Satupa'itea", "abbreviation": "SA", "country": "WS" },
+    { "name": "Tuamasaga", "abbreviation": "TU", "country": "WS" },
+    { "name": "Va'a-o-Fonoti", "abbreviation": "VF", "country": "WS" },
+    { "name": "Vaisigano", "abbreviation": "VS", "country": "WS" }
+  ]
+}

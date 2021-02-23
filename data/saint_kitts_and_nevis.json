@@ -1,0 +1,53 @@
+{
+  "name": "Saint Kitts and Nevis",
+  "altSpellings": ["KN", "Federation of Saint Christopher and Nevis"],
+  "area": 261,
+  "borders": [],
+  "callingCodes": ["1869"],
+  "capital": "Basseterre",
+  "currencies": ["XCD"],
+  "demonym": "Kittian and Nevisian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "KN", "alpha3": "KNA" },
+  "languages": ["en"],
+  "latlng": [17.33333333, -62.75],
+  "nativeName": "Saint Kitts and Nevis",
+  "population": 55000,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": ["UTC−04:00"],
+  "tld": [".kn"],
+  "translations": {
+    "de": "St. Kitts und Nevis",
+    "es": "San Cristóbal y Nieves",
+    "fr": "Saint-Christophe-et-Niévès",
+    "ja": "セントクリストファー・ネイビス",
+    "it": "Saint Kitts e Nevis"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/saint_kitts_and_nevis",
+  "states": [
+    {
+      "name": "Christ Church Nichola Town",
+      "abbreviation": "",
+      "country": "KN"
+    },
+    { "name": "Saint Anne Sandy Point", "abbreviation": "", "country": "KN" },
+    { "name": "Saint George Basseterre", "abbreviation": "", "country": "KN" },
+    { "name": "Saint George Gingerland", "abbreviation": "", "country": "KN" },
+    { "name": "Saint James Windward", "abbreviation": "", "country": "KN" },
+    { "name": "Saint John Capisterre", "abbreviation": "", "country": "KN" },
+    { "name": "Saint John Figtree", "abbreviation": "", "country": "KN" },
+    { "name": "Saint Mary Cayon", "abbreviation": "", "country": "KN" },
+    { "name": "Saint Paul Capisterre", "abbreviation": "", "country": "KN" },
+    { "name": "Saint Paul Charlestown", "abbreviation": "", "country": "KN" },
+    { "name": "Saint Peter Basseterre", "abbreviation": "", "country": "KN" },
+    { "name": "Saint Thomas Lowland", "abbreviation": "", "country": "KN" },
+    {
+      "name": "Saint Thomas Middle Island",
+      "abbreviation": "",
+      "country": "KN"
+    },
+    { "name": "Trinity Palmetto Point", "abbreviation": "", "country": "KN" }
+  ]
+}

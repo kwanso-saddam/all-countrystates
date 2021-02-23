@@ -1,0 +1,104 @@
+{
+  "name": "Switzerland",
+  "altSpellings": [
+    "CH",
+    "Swiss Confederation",
+    "Schweiz",
+    "Suisse",
+    "Svizzera",
+    "Svizra"
+  ],
+  "area": 41284,
+  "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
+  "callingCodes": ["41"],
+  "capital": "Bern",
+  "currencies": ["CHE", "CHF", "CHW"],
+  "demonym": "Swiss",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "CHE",
+        "properties": { "name": "Switzerland" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [9.594226, 47.525058],
+              [9.632932, 47.347601],
+              [9.47997, 47.10281],
+              [9.932448, 46.920728],
+              [10.442701, 46.893546],
+              [10.363378, 46.483571],
+              [9.922837, 46.314899],
+              [9.182882, 46.440215],
+              [8.966306, 46.036932],
+              [8.489952, 46.005151],
+              [8.31663, 46.163642],
+              [7.755992, 45.82449],
+              [7.273851, 45.776948],
+              [6.843593, 45.991147],
+              [6.5001, 46.429673],
+              [6.022609, 46.27299],
+              [6.037389, 46.725779],
+              [6.768714, 47.287708],
+              [6.736571, 47.541801],
+              [7.192202, 47.449766],
+              [7.466759, 47.620582],
+              [8.317301, 47.61358],
+              [8.522612, 47.830828],
+              [9.594226, 47.525058]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "ISO": { "alpha2": "CH", "alpha3": "CHE" },
+  "languages": ["de", "fr", "it"],
+  "latlng": [47, 8],
+  "nativeName": "Schweiz",
+  "population": 8183800,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "timezones": ["UTC+01:00"],
+  "tld": [".ch"],
+  "translations": {
+    "de": "Schweiz",
+    "es": "Suiza",
+    "fr": "Suisse",
+    "ja": "スイス",
+    "it": "Svizzera"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/switzerland",
+  "states": [
+    { "name": "Aargau", "abbreviation": "AG", "country": "CH" },
+    { "name": "Ausser-Rhoden", "abbreviation": "", "country": "CH" },
+    { "name": "Basel-Landschaft", "abbreviation": "BL", "country": "CH" },
+    { "name": "Basel-Stadt", "abbreviation": "", "country": "CH" },
+    { "name": "Bern", "abbreviation": "", "country": "CH" },
+    { "name": "Fribourg", "abbreviation": "", "country": "CH" },
+    { "name": "Geneve", "abbreviation": "", "country": "CH" },
+    { "name": "Glarus", "abbreviation": "GL", "country": "CH" },
+    { "name": "Graubunden", "abbreviation": "", "country": "CH" },
+    { "name": "Inner-Rhoden", "abbreviation": "", "country": "CH" },
+    { "name": "Jura", "abbreviation": "", "country": "CH" },
+    { "name": "Luzern", "abbreviation": "", "country": "CH" },
+    { "name": "Neuchatel", "abbreviation": "", "country": "CH" },
+    { "name": "Nidwalden", "abbreviation": "NW", "country": "CH" },
+    { "name": "Obwalden", "abbreviation": "OW", "country": "CH" },
+    { "name": "Sankt Gallen", "abbreviation": "", "country": "CH" },
+    { "name": "Schaffhausen", "abbreviation": "", "country": "CH" },
+    { "name": "Schwyz", "abbreviation": "SZ", "country": "CH" },
+    { "name": "Solothurn", "abbreviation": "", "country": "CH" },
+    { "name": "Thurgau", "abbreviation": "TG", "country": "CH" },
+    { "name": "Ticino", "abbreviation": "TI", "country": "CH" },
+    { "name": "Uri", "abbreviation": "UR", "country": "CH" },
+    { "name": "Valais", "abbreviation": "", "country": "CH" },
+    { "name": "Vaud", "abbreviation": "", "country": "CH" },
+    { "name": "Zug", "abbreviation": "", "country": "CH" },
+    { "name": "Zurich", "abbreviation": "", "country": "CH" }
+  ]
+}

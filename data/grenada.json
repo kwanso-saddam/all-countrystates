@@ -1,0 +1,42 @@
+{
+  "name": "Grenada",
+  "altSpellings": ["GD"],
+  "area": 344,
+  "borders": [],
+  "callingCodes": ["1473"],
+  "capital": "St. George's",
+  "currencies": ["XCD"],
+  "demonym": "Grenadian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "GD", "alpha3": "GRD" },
+  "languages": ["en"],
+  "latlng": [12.11666666, -61.66666666],
+  "nativeName": "Grenada",
+  "population": 103328,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": ["UTC−04:00"],
+  "tld": [".gd"],
+  "translations": {
+    "de": "Grenada",
+    "es": "Grenada",
+    "fr": "Grenade",
+    "ja": "グレナダ",
+    "it": "Grenada"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/grenada",
+  "states": [
+    {
+      "name": "Carriacou and Petit Martinique",
+      "abbreviation": "",
+      "country": "GD"
+    },
+    { "name": "Saint Andrew", "abbreviation": "02", "country": "GD" },
+    { "name": "Saint David", "abbreviation": "", "country": "GD" },
+    { "name": "Saint George", "abbreviation": "03", "country": "GD" },
+    { "name": "Saint John", "abbreviation": "05", "country": "GD" },
+    { "name": "Saint Mark", "abbreviation": "", "country": "GD" },
+    { "name": "Saint Patrick", "abbreviation": "", "country": "GD" }
+  ]
+}

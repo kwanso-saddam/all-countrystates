@@ -1,0 +1,9 @@
+node_modules
+build.js
+npm-debug.log
+coverage
+.DS_STORE
+.idea
+.vscode
+package-lock.json
+.prettierrc

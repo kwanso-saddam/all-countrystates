@@ -1,0 +1,40 @@
+{
+  "name": "San Marino",
+  "altSpellings": ["SM", "Republic of San Marino", "Repubblica di San Marino"],
+  "area": 61,
+  "borders": ["ITA"],
+  "callingCodes": ["378"],
+  "capital": "City of San Marino",
+  "currencies": ["EUR"],
+  "demonym": "Sammarinese",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "SM", "alpha3": "SMR" },
+  "languages": ["it"],
+  "latlng": [43.76666666, 12.41666666],
+  "nativeName": "San Marino",
+  "population": 32743,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "timezones": ["UTC+01:00"],
+  "tld": [".sm"],
+  "translations": {
+    "de": "San Marino",
+    "es": "San Marino",
+    "fr": "Saint-Marin",
+    "ja": "サンマリノ",
+    "it": "San Marino"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/san_marino",
+  "states": [
+    { "name": "Acquaviva", "abbreviation": "01", "country": "SM" },
+    { "name": "Borgo Maggiore", "abbreviation": "06", "country": "SM" },
+    { "name": "Chiesanuova", "abbreviation": "02", "country": "SM" },
+    { "name": "Domagnano", "abbreviation": "03", "country": "SM" },
+    { "name": "Faetano", "abbreviation": "04", "country": "SM" },
+    { "name": "Fiorentino", "abbreviation": "05", "country": "SM" },
+    { "name": "Monte Giardino", "abbreviation": "", "country": "SM" },
+    { "name": "San Marino", "abbreviation": "07", "country": "SM" },
+    { "name": "Serravalle", "abbreviation": "09", "country": "SM" }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Bahrain",
+  "altSpellings": ["BH", "Kingdom of Bahrain", "Mamlakat al-Baḥrayn"],
+  "area": 765,
+  "borders": [],
+  "callingCodes": ["973"],
+  "capital": "Manama",
+  "currencies": ["BHD"],
+  "demonym": "Bahraini",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "BH", "alpha3": "BHR" },
+  "languages": ["ar"],
+  "latlng": [26, 50.55],
+  "nativeName": "‏البحرين",
+  "population": 1316500,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "timezones": ["UTC+03:00"],
+  "tld": [".bh"],
+  "translations": {
+    "de": "Bahrain",
+    "es": "Bahrein",
+    "fr": "Bahreïn",
+    "ja": "バーレーン",
+    "it": "Bahrein"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/bahrain",
+  "states": [
+    { "name": "Al Hadd", "abbreviation": "", "country": "BH" },
+    { "name": "Al Manamah", "abbreviation": "", "country": "BH" },
+    { "name": "Al Mintaqah al Gharbiyah", "abbreviation": "", "country": "BH" },
+    { "name": "Al Mintaqah al Wusta", "abbreviation": "", "country": "BH" },
+    {
+      "name": "Al Mintaqah ash Shamaliyah",
+      "abbreviation": "",
+      "country": "BH"
+    },
+    { "name": "Al Muharraq", "abbreviation": "", "country": "BH" },
+    {
+      "name": "Ar Rifa' wa al Mintaqah al Janubiyah",
+      "abbreviation": "",
+      "country": "BH"
+    },
+    { "name": "Jidd Hafs", "abbreviation": "", "country": "BH" },
+    { "name": "Juzur Hawar", "abbreviation": "", "country": "BH" },
+    { "name": "Madinat 'Isa", "abbreviation": "", "country": "BH" },
+    { "name": "Madinat Hamad", "abbreviation": "", "country": "BH" },
+    { "name": "Sitrah", "abbreviation": "", "country": "BH" }
+  ]
+}

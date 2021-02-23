@@ -1,0 +1,34 @@
+{
+  "name": "Tonga",
+  "altSpellings": ["TO"],
+  "area": 747,
+  "borders": [],
+  "callingCodes": ["676"],
+  "capital": "Nuku'alofa",
+  "currencies": ["TOP"],
+  "demonym": "Tongan",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "TO", "alpha3": "TON" },
+  "languages": ["en", "to"],
+  "latlng": [-20, -175],
+  "nativeName": "Tonga",
+  "population": 103252,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": ["UTC+13:00"],
+  "tld": [".to"],
+  "translations": {
+    "de": "Tonga",
+    "es": "Tonga",
+    "fr": "Tonga",
+    "ja": "トンガ",
+    "it": "Tonga"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/tonga",
+  "states": [
+    { "name": "Ha'apai", "abbreviation": "", "country": "TO" },
+    { "name": "Tongatapu", "abbreviation": "04", "country": "TO" },
+    { "name": "Vava'u", "abbreviation": "", "country": "TO" }
+  ]
+}

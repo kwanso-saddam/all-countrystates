@@ -1,0 +1,46 @@
+{
+  "name": "Dominica",
+  "altSpellings": [
+    "DM",
+    "Dominique",
+    "Wai‘tu kubuli",
+    "Commonwealth of Dominica"
+  ],
+  "area": 751,
+  "borders": [],
+  "callingCodes": ["1767"],
+  "capital": "Roseau",
+  "currencies": ["XCD"],
+  "demonym": "Dominican",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "DM", "alpha3": "DMA" },
+  "languages": ["en"],
+  "latlng": [15.41666666, -61.33333333],
+  "nativeName": "Dominica",
+  "population": 71293,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": ["UTC−04:00"],
+  "tld": [".dm"],
+  "translations": {
+    "de": "Dominica",
+    "es": "Dominica",
+    "fr": "Dominique",
+    "ja": "ドミニカ国",
+    "it": "Dominica"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/dominica",
+  "states": [
+    { "name": "Saint Andrew", "abbreviation": "02", "country": "DM" },
+    { "name": "Saint David", "abbreviation": "", "country": "DM" },
+    { "name": "Saint George", "abbreviation": "03", "country": "DM" },
+    { "name": "Saint John", "abbreviation": "05", "country": "DM" },
+    { "name": "Saint Joseph", "abbreviation": "06", "country": "DM" },
+    { "name": "Saint Luke", "abbreviation": "", "country": "DM" },
+    { "name": "Saint Mark", "abbreviation": "", "country": "DM" },
+    { "name": "Saint Patrick", "abbreviation": "", "country": "DM" },
+    { "name": "Saint Paul", "abbreviation": "", "country": "DM" },
+    { "name": "Saint Peter", "abbreviation": "09", "country": "DM" }
+  ]
+}

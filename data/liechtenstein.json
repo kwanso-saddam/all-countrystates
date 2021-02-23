@@ -1,0 +1,46 @@
+{
+  "name": "Liechtenstein",
+  "altSpellings": [
+    "LI",
+    "Principality of Liechtenstein",
+    "Fürstentum Liechtenstein"
+  ],
+  "area": 160,
+  "borders": ["AUT", "CHE"],
+  "callingCodes": ["423"],
+  "capital": "Vaduz",
+  "currencies": ["CHF"],
+  "demonym": "Liechtensteiner",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "LI", "alpha3": "LIE" },
+  "languages": ["de"],
+  "latlng": [47.26666666, 9.53333333],
+  "nativeName": "Liechtenstein",
+  "population": 37132,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "timezones": ["UTC+01:00"],
+  "tld": [".li"],
+  "translations": {
+    "de": "Liechtenstein",
+    "es": "Liechtenstein",
+    "fr": "Liechtenstein",
+    "ja": "リヒテンシュタイン",
+    "it": "Liechtenstein"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/liechtenstein",
+  "states": [
+    { "name": "Balzers", "abbreviation": "01", "country": "LI" },
+    { "name": "Eschen", "abbreviation": "02", "country": "LI" },
+    { "name": "Gamprin", "abbreviation": "03", "country": "LI" },
+    { "name": "Mauren", "abbreviation": "04", "country": "LI" },
+    { "name": "Planken", "abbreviation": "05", "country": "LI" },
+    { "name": "Ruggell", "abbreviation": "06", "country": "LI" },
+    { "name": "Schaan", "abbreviation": "07", "country": "LI" },
+    { "name": "Schellenberg", "abbreviation": "08", "country": "LI" },
+    { "name": "Triesen", "abbreviation": "09", "country": "LI" },
+    { "name": "Triesenberg", "abbreviation": 10, "country": "LI" },
+    { "name": "Vaduz", "abbreviation": 11, "country": "LI" }
+  ]
+}

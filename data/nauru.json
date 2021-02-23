@@ -1,0 +1,51 @@
+{
+  "name": "Nauru",
+  "altSpellings": [
+    "NR",
+    "Naoero",
+    "Pleasant Island",
+    "Republic of Nauru",
+    "Ripublik Naoero"
+  ],
+  "area": 21,
+  "borders": [],
+  "callingCodes": ["674"],
+  "capital": "Yaren",
+  "currencies": ["AUD"],
+  "demonym": "Nauruan",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "NR", "alpha3": "NRU" },
+  "languages": ["en", "na"],
+  "latlng": [-0.53333333, 166.91666666],
+  "nativeName": "Nauru",
+  "population": 10084,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "timezones": ["UTC+12:00"],
+  "tld": [".nr"],
+  "translations": {
+    "de": "Nauru",
+    "es": "Nauru",
+    "fr": "Nauru",
+    "ja": "ナウル",
+    "it": "Nauru"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/nauru",
+  "states": [
+    { "name": "Aiwo", "abbreviation": "", "country": "NR" },
+    { "name": "Anabar", "abbreviation": "", "country": "NR" },
+    { "name": "Anetan", "abbreviation": "", "country": "NR" },
+    { "name": "Anibare", "abbreviation": "", "country": "NR" },
+    { "name": "Baiti", "abbreviation": "", "country": "NR" },
+    { "name": "Boe", "abbreviation": "", "country": "NR" },
+    { "name": "Buada", "abbreviation": "", "country": "NR" },
+    { "name": "Denigomodu", "abbreviation": "", "country": "NR" },
+    { "name": "Ewa", "abbreviation": "", "country": "NR" },
+    { "name": "Ijuw", "abbreviation": "", "country": "NR" },
+    { "name": "Meneng", "abbreviation": "", "country": "NR" },
+    { "name": "Nibok", "abbreviation": "", "country": "NR" },
+    { "name": "Uaboe", "abbreviation": "", "country": "NR" },
+    { "name": "Yaren", "abbreviation": "", "country": "NR" }
+  ]
+}

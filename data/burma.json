@@ -1,0 +1,23 @@
+{
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {},
+  "tld": [],
+  "wiki": "http://en.wikipedia.org/wiki/burma",
+  "states": [
+    { "name": "Ayeyarwady", "abbreviation": "" },
+    { "name": "Bago", "abbreviation": "02" },
+    { "name": "Chin State", "abbreviation": 14 },
+    { "name": "Kachin State", "abbreviation": 11 },
+    { "name": "Kayah State", "abbreviation": 12 },
+    { "name": "Kayin State", "abbreviation": 13 },
+    { "name": "Magway", "abbreviation": "" },
+    { "name": "Mandalay", "abbreviation": "" },
+    { "name": "Mon State", "abbreviation": 15 },
+    { "name": "Rakhine State", "abbreviation": 16 },
+    { "name": "Sagaing", "abbreviation": "" },
+    { "name": "Shan State", "abbreviation": 17 },
+    { "name": "Tanintharyi", "abbreviation": "" },
+    { "name": "Yangon", "abbreviation": "" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {},
+  "tld": [],
+  "wiki": "http://en.wikipedia.org/wiki/virgin_islands",
+  "states": [
+    { "name": "Saint Croix", "abbreviation": "" },
+    { "name": "Saint John", "abbreviation": "05" },
+    { "name": "Saint Thomas", "abbreviation": 11 }
+  ]
+}

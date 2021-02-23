@@ -1,0 +1,32 @@
+{
+  "name": "Wales",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "GB", "alpha3": "GBR" },
+  "tld": [],
+  "wiki": "http://en.wikipedia.org/wiki/wales",
+  "states": [
+    { "name": "Blaenau Gwent", "abbreviation": "", "country": "GB" },
+    { "name": "Bridgend", "abbreviation": "", "country": "GB" },
+    { "name": "Caerphilly", "abbreviation": "", "country": "GB" },
+    { "name": "Cardiff", "abbreviation": "", "country": "GB" },
+    { "name": "Carmarthenshire", "abbreviation": "CMN", "country": "GB" },
+    { "name": "Ceredigion", "abbreviation": "CGN", "country": "GB" },
+    { "name": "Conwy", "abbreviation": "", "country": "GB" },
+    { "name": "Denbighshire", "abbreviation": "DEN", "country": "GB" },
+    { "name": "Flintshire", "abbreviation": "FLN", "country": "GB" },
+    { "name": "Gwynedd", "abbreviation": "GWN", "country": "GB" },
+    { "name": "Isle of Anglesey", "abbreviation": "", "country": "GB" },
+    { "name": "Merthyr Tydfil", "abbreviation": "", "country": "GB" },
+    { "name": "Monmouthshire", "abbreviation": "MON", "country": "GB" },
+    { "name": "Neath Port Talbot", "abbreviation": "", "country": "GB" },
+    { "name": "Newport", "abbreviation": "NWP", "country": "GB" },
+    { "name": "Pembrokeshire", "abbreviation": "PEM", "country": "GB" },
+    { "name": "Powys", "abbreviation": "POW", "country": "GB" },
+    { "name": "Rhondda Cynon Taff", "abbreviation": "", "country": "GB" },
+    { "name": "Swansea", "abbreviation": "", "country": "GB" },
+    { "name": "The Vale of Glamorgan", "abbreviation": "", "country": "GB" },
+    { "name": "Torfaen", "abbreviation": "TOF", "country": "GB" },
+    { "name": "Wrexham", "abbreviation": "", "country": "GB" }
+  ]
+}

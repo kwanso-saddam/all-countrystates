@@ -1,0 +1,43 @@
+{
+  "name": "Mauritius",
+  "altSpellings": ["MU", "Republic of Mauritius", "République de Maurice"],
+  "area": 2040,
+  "borders": [],
+  "callingCodes": ["230"],
+  "capital": "Port Louis",
+  "currencies": ["MUR"],
+  "demonym": "Mauritian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "MU", "alpha3": "MUS" },
+  "languages": ["en"],
+  "latlng": [-20.28333333, 57.55],
+  "nativeName": "Maurice",
+  "population": 1261208,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "timezones": ["UTC+04:00"],
+  "tld": [".mu"],
+  "translations": {
+    "de": "Mauritius",
+    "es": "Mauricio",
+    "fr": "Île Maurice",
+    "ja": "モーリシャス",
+    "it": "Mauritius"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/mauritius",
+  "states": [
+    { "name": "Agalega Islands", "abbreviation": "", "country": "MU" },
+    { "name": "Black River", "abbreviation": "", "country": "MU" },
+    { "name": "Cargados Carajos Shoals", "abbreviation": "", "country": "MU" },
+    { "name": "Flacq", "abbreviation": "", "country": "MU" },
+    { "name": "Grand Port", "abbreviation": "", "country": "MU" },
+    { "name": "Moka", "abbreviation": "", "country": "MU" },
+    { "name": "Pamplemousses", "abbreviation": "", "country": "MU" },
+    { "name": "Plaines Wilhems", "abbreviation": "", "country": "MU" },
+    { "name": "Port Louis", "abbreviation": "PU", "country": "MU" },
+    { "name": "Riviere du Rempart", "abbreviation": "", "country": "MU" },
+    { "name": "Rodrigues", "abbreviation": "RO", "country": "MU" },
+    { "name": "Savanne", "abbreviation": "", "country": "MU" }
+  ]
+}

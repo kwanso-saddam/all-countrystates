@@ -1,0 +1,41 @@
+{
+  "name": "Guernsey",
+  "altSpellings": ["GG", "Bailiwick of Guernsey", "Bailliage de Guernesey"],
+  "area": 78,
+  "borders": [],
+  "callingCodes": ["44"],
+  "capital": "St. Peter Port",
+  "currencies": ["GBP"],
+  "demonym": "Channel Islander",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": { "alpha2": "GG", "alpha3": "GGY" },
+  "languages": ["en", "fr"],
+  "latlng": [49.46666666, -2.58333333],
+  "nativeName": "Guernsey",
+  "population": 63085,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "timezones": null,
+  "tld": [".gg"],
+  "translations": {
+    "de": "Guernsey",
+    "es": "Guernsey",
+    "fr": "Guernesey",
+    "ja": "ガーンジー",
+    "it": "Guernsey"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/guernsey",
+  "states": [
+    { "name": "Castel", "abbreviation": "", "country": "GG" },
+    { "name": "Forest", "abbreviation": "", "country": "GG" },
+    { "name": "St. Andrew", "abbreviation": "", "country": "GG" },
+    { "name": "St. Martin", "abbreviation": "", "country": "GG" },
+    { "name": "St. Peter Port", "abbreviation": "", "country": "GG" },
+    { "name": "St. Pierre du Bois", "abbreviation": "", "country": "GG" },
+    { "name": "St. Sampson", "abbreviation": "", "country": "GG" },
+    { "name": "St. Saviour", "abbreviation": "", "country": "GG" },
+    { "name": "Torteval", "abbreviation": "", "country": "GG" },
+    { "name": "Vale", "abbreviation": "", "country": "GG" }
+  ]
+}

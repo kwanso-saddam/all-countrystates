@@ -1,0 +1,36 @@
+{
+  "name": "countrystatesjs",
+  "version": "0.0.12",
+  "description": "A utility library for returning state/province data given a country",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": [
+    "node"
+  ],
+  "scripts": {
+    "pretest": "./node_modules/standard/bin/cmd.js",
+    "test": "./node_modules/istanbul/lib/cli.js cover _mocha --",
+    "createCountries": "node createCountries.js"
+  },
+  "keywords": [
+    "country",
+    "iso",
+    "states",
+    "provinces",
+    "countries",
+    "state",
+    "province"
+  ],
+  "dependencies": {
+    "bulk-require": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.6",
+    "lodash": "^4.2.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.4",
+    "mocha": "^3.0.0",
+    "standard": "^8.0.0"
+  }
+}
