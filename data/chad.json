@@ -101,19 +101,19 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/chad",
   "states": [
-    { "name": "Batha", "abbreviation": "", "country": "TD" },
+    { "name": "Batha", "abbreviation": "BA", "country": "TD" },
     { "name": "Biltine", "abbreviation": "", "country": "TD" },
     { "name": "Borkou-Ennedi-Tibesti", "abbreviation": "", "country": "TD" },
     { "name": "Chari-Baguirmi", "abbreviation": "", "country": "TD" },
-    { "name": "Guera", "abbreviation": "", "country": "TD" },
-    { "name": "Kanem", "abbreviation": "", "country": "TD" },
-    { "name": "Lac", "abbreviation": "", "country": "TD" },
-    { "name": "Logone Occidental", "abbreviation": "", "country": "TD" },
-    { "name": "Logone Oriental", "abbreviation": "", "country": "TD" },
+    { "name": "Guera", "abbreviation": "GR", "country": "TD" },
+    { "name": "Kanem", "abbreviation": "KA", "country": "TD" },
+    { "name": "Lac", "abbreviation": "LC", "country": "TD" },
+    { "name": "Logone Occidental", "abbreviation": "LO", "country": "TD" },
+    { "name": "Logone Oriental", "abbreviation": "LR", "country": "TD" },
     { "name": "Mayo-Kebbi", "abbreviation": "", "country": "TD" },
-    { "name": "Moyen-Chari", "abbreviation": "", "country": "TD" },
-    { "name": "Ouaddai", "abbreviation": "", "country": "TD" },
-    { "name": "Salamat", "abbreviation": "", "country": "TD" },
-    { "name": "Tandjile", "abbreviation": "", "country": "TD" }
+    { "name": "Moyen-Chari", "abbreviation": "MC", "country": "TD" },
+    { "name": "Ouaddai", "abbreviation": "OD", "country": "TD" },
+    { "name": "Salamat", "abbreviation": "SA", "country": "TD" },
+    { "name": "Tandjile", "abbreviation": "TA", "country": "TD" }
   ]
 }

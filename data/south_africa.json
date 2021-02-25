@@ -144,7 +144,7 @@
     { "name": "Gauteng", "abbreviation": "GP", "country": "ZA" },
     { "name": "KwaZulu-Natal", "abbreviation": "KZN", "country": "ZA" },
     { "name": "Mpumalanga", "abbreviation": "MP", "country": "ZA" },
-    { "name": "North-West", "abbreviation": "", "country": "ZA" },
+    { "name": "North-West", "abbreviation": "NW", "country": "ZA" },
     { "name": "Northern Cape", "abbreviation": "NC", "country": "ZA" },
     { "name": "Northern Province", "abbreviation": "03", "country": "ZA" },
     { "name": "Western Cape", "abbreviation": "WC", "country": "ZA" }

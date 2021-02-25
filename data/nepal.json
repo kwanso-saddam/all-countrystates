@@ -70,19 +70,19 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/nepal",
   "states": [
-    { "name": "Bagmati", "abbreviation": "", "country": "NP" },
-    { "name": "Bheri", "abbreviation": "", "country": "NP" },
+    { "name": "Bagmati", "abbreviation": "BA", "country": "NP" },
+    { "name": "Bheri", "abbreviation": "BH", "country": "NP" },
     { "name": "Dhawalagiri", "abbreviation": "", "country": "NP" },
-    { "name": "Gandaki", "abbreviation": "", "country": "NP" },
-    { "name": "Janakpur", "abbreviation": "", "country": "NP" },
-    { "name": "Karnali", "abbreviation": "", "country": "NP" },
-    { "name": "Kosi", "abbreviation": "", "country": "NP" },
-    { "name": "Lumbini", "abbreviation": "", "country": "NP" },
-    { "name": "Mahakali", "abbreviation": "", "country": "NP" },
-    { "name": "Mechi", "abbreviation": "", "country": "NP" },
-    { "name": "Narayani", "abbreviation": "", "country": "NP" },
-    { "name": "Rapti", "abbreviation": "", "country": "NP" },
-    { "name": "Sagarmatha", "abbreviation": "", "country": "NP" },
-    { "name": "Seti", "abbreviation": "", "country": "NP" }
+    { "name": "Gandaki", "abbreviation": "GA", "country": "NP" },
+    { "name": "Janakpur", "abbreviation": "JA", "country": "NP" },
+    { "name": "Karnali", "abbreviation": "KA", "country": "NP" },
+    { "name": "Kosi", "abbreviation": "KO", "country": "NP" },
+    { "name": "Lumbini", "abbreviation": "LU", "country": "NP" },
+    { "name": "Mahakali", "abbreviation": "MA", "country": "NP" },
+    { "name": "Mechi", "abbreviation": "ME", "country": "NP" },
+    { "name": "Narayani", "abbreviation": "NA", "country": "NP" },
+    { "name": "Rapti", "abbreviation": "RA", "country": "NP" },
+    { "name": "Sagarmatha", "abbreviation": "SA", "country": "NP" },
+    { "name": "Seti", "abbreviation": "SE", "country": "NP" }
   ]
 }

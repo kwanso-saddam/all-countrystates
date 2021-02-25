@@ -134,16 +134,16 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/bermuda",
   "states": [
-    { "name": "Devonshire", "abbreviation": "", "country": "BM" },
-    { "name": "Hamilton", "abbreviation": "", "country": "BM" },
-    { "name": "Hamilton", "abbreviation": "", "country": "BM" },
-    { "name": "Paget", "abbreviation": "", "country": "BM" },
+    { "name": "Devonshire", "abbreviation": "DEV", "country": "BM" },
+    { "name": "Hamilton", "abbreviation": "HAM", "country": "BM" },
+    { "name": "Hamilton", "abbreviation": "HAM", "country": "BM" },
+    { "name": "Paget", "abbreviation": "PAG", "country": "BM" },
     { "name": "Pembroke", "abbreviation": 40, "country": "BM" },
     { "name": "Saint George", "abbreviation": "03", "country": "BM" },
-    { "name": "Saint Georges", "abbreviation": "", "country": "BM" },
-    { "name": "Sandys", "abbreviation": "", "country": "BM" },
-    { "name": "Smiths", "abbreviation": "", "country": "BM" },
-    { "name": "Southampton", "abbreviation": "", "country": "BM" },
-    { "name": "Warwick", "abbreviation": "", "country": "BM" }
+    { "name": "Saint Georges", "abbreviation": "SG", "country": "BM" },
+    { "name": "Sandys", "abbreviation": "SAN", "country": "BM" },
+    { "name": "Smiths", "abbreviation": "SMI", "country": "BM" },
+    { "name": "Southampton", "abbreviation": "STH", "country": "BM" },
+    { "name": "Warwick", "abbreviation": "WAR", "country": "BM" }
   ]
 }

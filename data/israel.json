@@ -66,11 +66,11 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/israel",
   "states": [
-    { "name": "Central", "abbreviation": "", "country": "IL" },
-    { "name": "Haifa", "abbreviation": "", "country": "IL" },
-    { "name": "Jerusalem", "abbreviation": "", "country": "IL" },
+    { "name": "Central", "abbreviation": "200", "country": "IL" },
+    { "name": "Haifa", "abbreviation": "HA", "country": "IL" },
+    { "name": "Jerusalem", "abbreviation": "JM", "country": "IL" },
     { "name": "Northern", "abbreviation": "NO", "country": "IL" },
     { "name": "Southern", "abbreviation": "HSO", "country": "IL" },
-    { "name": "Tel Aviv", "abbreviation": "", "country": "IL" }
+    { "name": "Tel Aviv", "abbreviation": "TA", "country": "IL" }
   ]
 }

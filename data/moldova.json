@@ -70,17 +70,17 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/moldova",
   "states": [
-    { "name": "Balti", "abbreviation": "", "country": "MD" },
-    { "name": "Cahul", "abbreviation": "", "country": "MD" },
-    { "name": "Chisinau", "abbreviation": "", "country": "MD" },
-    { "name": "Chisinau", "abbreviation": "", "country": "MD" },
-    { "name": "Dubasari", "abbreviation": "", "country": "MD" },
-    { "name": "Edinet", "abbreviation": "", "country": "MD" },
+    { "name": "Balti", "abbreviation": "BA", "country": "MD" },
+    { "name": "Cahul", "abbreviation": "CA", "country": "MD" },
+    { "name": "Chisinau", "abbreviation": "CU", "country": "MD" },
+    { "name": "Chisinau", "abbreviation": "CU", "country": "MD" },
+    { "name": "Dubasari", "abbreviation": "DU", "country": "MD" },
+    { "name": "Edinet", "abbreviation": "ED", "country": "MD" },
     { "name": "Gagauzia", "abbreviation": "GA", "country": "MD" },
     { "name": "Lapusna", "abbreviation": "", "country": "MD" },
-    { "name": "Orhei", "abbreviation": "", "country": "MD" },
-    { "name": "Soroca", "abbreviation": "", "country": "MD" },
+    { "name": "Orhei", "abbreviation": "OR", "country": "MD" },
+    { "name": "Soroca", "abbreviation": "SO", "country": "MD" },
     { "name": "Tighina", "abbreviation": "", "country": "MD" },
-    { "name": "Ungheni", "abbreviation": "", "country": "MD" }
+    { "name": "Ungheni", "abbreviation": "UN", "country": "MD" }
   ]
 }

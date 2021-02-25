@@ -28,9 +28,9 @@
   "wiki": "http://en.wikipedia.org/wiki/american_samoa",
   "states": [
     { "name": "Eastern", "abbreviation": "HEA", "country": "AS" },
-    { "name": "Manu'a", "abbreviation": "", "country": "AS" },
-    { "name": "Rose Island", "abbreviation": "", "country": "AS" },
-    { "name": "Swains Island", "abbreviation": "", "country": "AS" },
-    { "name": "Western", "abbreviation": "", "country": "AS" }
+    { "name": "Manu'a", "abbreviation": "MN", "country": "AS" },
+    { "name": "Rose Island", "abbreviation": "RI", "country": "AS" },
+    { "name": "Swains Island", "abbreviation": "SI", "country": "AS" },
+    { "name": "Western", "abbreviation": "800", "country": "AS" }
   ]
 }

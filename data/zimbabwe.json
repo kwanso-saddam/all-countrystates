@@ -80,14 +80,14 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/zimbabwe",
   "states": [
-    { "name": "Bulawayo", "abbreviation": "", "country": "ZW" },
-    { "name": "Harare", "abbreviation": "", "country": "ZW" },
+    { "name": "Bulawayo", "abbreviation": "BU", "country": "ZW" },
+    { "name": "Harare", "abbreviation": "HA", "country": "ZW" },
     {
       "name": "ManicalandMashonaland Central",
-      "abbreviation": "",
+      "abbreviation": "MA",
       "country": "ZW"
     },
-    { "name": "Mashonaland East", "abbreviation": "", "country": "ZW" },
-    { "name": "Mashonaland", "abbreviation": "", "country": "ZW" }
+    { "name": "Mashonaland East", "abbreviation": "ME", "country": "ZW" },
+    { "name": "Mashonaland", "abbreviation": "MW", "country": "ZW" }
   ]
 }

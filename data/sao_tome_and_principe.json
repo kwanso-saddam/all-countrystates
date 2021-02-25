@@ -31,7 +31,7 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/sao_tome_and_principe",
   "states": [
-    { "name": "Principe", "abbreviation": "", "country": "ST" },
-    { "name": "Sao Tome", "abbreviation": "", "country": "ST" }
+    { "name": "Principe", "abbreviation": "P", "country": "ST" },
+    { "name": "Sao Tome", "abbreviation": "S", "country": "ST" }
   ]
 }

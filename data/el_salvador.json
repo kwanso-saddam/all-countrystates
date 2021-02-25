@@ -63,19 +63,19 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/el_salvador",
   "states": [
-    { "name": "Ahuachapan", "abbreviation": "", "country": "SV" },
-    { "name": "Cabanas", "abbreviation": "", "country": "SV" },
-    { "name": "Chalatenango", "abbreviation": "", "country": "SV" },
-    { "name": "Cuscatlan", "abbreviation": "", "country": "SV" },
+    { "name": "Ahuachapan", "abbreviation": "AH", "country": "SV" },
+    { "name": "Cabanas", "abbreviation": "CA", "country": "SV" },
+    { "name": "Chalatenango", "abbreviation": "CH", "country": "SV" },
+    { "name": "Cuscatlan", "abbreviation": "CU", "country": "SV" },
     { "name": "La Libertad", "abbreviation": "LAL", "country": "SV" },
-    { "name": "La Paz", "abbreviation": "", "country": "SV" },
+    { "name": "La Paz", "abbreviation": "L", "country": "SV" },
     { "name": "La Union", "abbreviation": "LUN", "country": "SV" },
-    { "name": "Morazan", "abbreviation": "", "country": "SV" },
-    { "name": "San Miguel", "abbreviation": "", "country": "SV" },
-    { "name": "San Salvador", "abbreviation": "", "country": "SV" },
-    { "name": "San Vicente", "abbreviation": "", "country": "SV" },
-    { "name": "Santa Ana", "abbreviation": "", "country": "SV" },
-    { "name": "Sonsonate", "abbreviation": "", "country": "SV" },
-    { "name": "Usulutan", "abbreviation": "", "country": "SV" }
+    { "name": "Morazan", "abbreviation": "MO", "country": "SV" },
+    { "name": "San Miguel", "abbreviation": "SM", "country": "SV" },
+    { "name": "San Salvador", "abbreviation": "SS", "country": "SV" },
+    { "name": "San Vicente", "abbreviation": "SV", "country": "SV" },
+    { "name": "Santa Ana", "abbreviation": "SA", "country": "SV" },
+    { "name": "Sonsonate", "abbreviation": "SO", "country": "SV" },
+    { "name": "Usulutan", "abbreviation": "US", "country": "SV" }
   ]
 }

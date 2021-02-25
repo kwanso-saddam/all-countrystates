@@ -66,14 +66,14 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/guinea_bissau",
   "states": [
-    { "name": "Bafata", "abbreviation": "", "country": "GW" },
-    { "name": "Biombo", "abbreviation": "", "country": "GW" },
+    { "name": "Bafata", "abbreviation": "BA", "country": "GW" },
+    { "name": "Biombo", "abbreviation": "BM", "country": "GW" },
     { "name": "Bissau", "abbreviation": "", "country": "GW" },
     { "name": "Bolama-Bijagos", "abbreviation": "", "country": "GW" },
-    { "name": "Cacheu", "abbreviation": "", "country": "GW" },
-    { "name": "Gabu", "abbreviation": "", "country": "GW" },
-    { "name": "Oio", "abbreviation": "", "country": "GW" },
-    { "name": "Quinara", "abbreviation": "", "country": "GW" },
-    { "name": "Tombali", "abbreviation": "", "country": "GW" }
+    { "name": "Cacheu", "abbreviation": "CA", "country": "GW" },
+    { "name": "Gabu", "abbreviation": "GA", "country": "GW" },
+    { "name": "Oio", "abbreviation": "OI", "country": "GW" },
+    { "name": "Quinara", "abbreviation": "QU", "country": "GW" },
+    { "name": "Tombali", "abbreviation": "TO", "country": "GW" }
   ]
 }

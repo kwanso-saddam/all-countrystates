@@ -119,13 +119,13 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/mali",
   "states": [
-    { "name": "Gao", "abbreviation": "", "country": "ML" },
-    { "name": "Kayes", "abbreviation": "", "country": "ML" },
-    { "name": "Kidal", "abbreviation": "", "country": "ML" },
-    { "name": "Koulikoro", "abbreviation": "", "country": "ML" },
-    { "name": "Mopti", "abbreviation": "", "country": "ML" },
-    { "name": "Segou", "abbreviation": "", "country": "ML" },
-    { "name": "Sikasso", "abbreviation": "", "country": "ML" },
-    { "name": "Tombouctou", "abbreviation": "", "country": "ML" }
+    { "name": "Gao", "abbreviation": "7", "country": "ML" },
+    { "name": "Kayes", "abbreviation": "1", "country": "ML" },
+    { "name": "Kidal", "abbreviation": "8", "country": "ML" },
+    { "name": "Koulikoro", "abbreviation": "2", "country": "ML" },
+    { "name": "Mopti", "abbreviation": "5", "country": "ML" },
+    { "name": "Segou", "abbreviation": "4", "country": "ML" },
+    { "name": "Sikasso", "abbreviation": "3", "country": "ML" },
+    { "name": "Tombouctou", "abbreviation": "6", "country": "ML" }
   ]
 }

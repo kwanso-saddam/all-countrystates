@@ -67,9 +67,9 @@
   "wiki": "http://en.wikipedia.org/wiki/djibouti",
   "states": [
     { "name": "'Ali Sabih", "abbreviation": "", "country": "DJ" },
-    { "name": "Dikhil", "abbreviation": "", "country": "DJ" },
+    { "name": "Dikhil", "abbreviation": "DI", "country": "DJ" },
     { "name": "Djibouti", "abbreviation": "DJ", "country": "DJ" },
-    { "name": "Obock", "abbreviation": "", "country": "DJ" },
+    { "name": "Obock", "abbreviation": "OB", "country": "DJ" },
     { "name": "Tadjoura", "abbreviation": "", "country": "DJ" }
   ]
 }

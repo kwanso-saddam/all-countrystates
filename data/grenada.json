@@ -33,10 +33,10 @@
       "country": "GD"
     },
     { "name": "Saint Andrew", "abbreviation": "02", "country": "GD" },
-    { "name": "Saint David", "abbreviation": "", "country": "GD" },
+    { "name": "Saint David", "abbreviation": "03", "country": "GD" },
     { "name": "Saint George", "abbreviation": "03", "country": "GD" },
     { "name": "Saint John", "abbreviation": "05", "country": "GD" },
-    { "name": "Saint Mark", "abbreviation": "", "country": "GD" },
-    { "name": "Saint Patrick", "abbreviation": "", "country": "GD" }
+    { "name": "Saint Mark", "abbreviation": "05", "country": "GD" },
+    { "name": "Saint Patrick", "abbreviation": "05", "country": "GD" }
   ]
 }

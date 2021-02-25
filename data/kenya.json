@@ -80,13 +80,13 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/kenya",
   "states": [
-    { "name": "Central", "abbreviation": "", "country": "KE" },
-    { "name": "Coast", "abbreviation": "", "country": "KE" },
+    { "name": "Central", "abbreviation": "200", "country": "KE" },
+    { "name": "Coast", "abbreviation": "300", "country": "KE" },
     { "name": "Eastern", "abbreviation": "HEA", "country": "KE" },
-    { "name": "Nairobi Area", "abbreviation": "", "country": "KE" },
-    { "name": "North Eastern", "abbreviation": "", "country": "KE" },
-    { "name": "Nyanza", "abbreviation": "", "country": "KE" },
-    { "name": "Rift Valley", "abbreviation": "", "country": "KE" },
-    { "name": "Western", "abbreviation": "", "country": "KE" }
+    { "name": "Nairobi Area", "abbreviation": "110", "country": "KE" },
+    { "name": "North Eastern", "abbreviation": "500", "country": "KE" },
+    { "name": "Nyanza", "abbreviation": "600", "country": "KE" },
+    { "name": "Rift Valley", "abbreviation": "700", "country": "KE" },
+    { "name": "Western", "abbreviation": "800", "country": "KE" }
   ]
 }

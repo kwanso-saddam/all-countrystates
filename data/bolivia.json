@@ -112,14 +112,14 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/bolivia",
   "states": [
-    { "name": "Beni", "abbreviation": "", "country": "BO" },
-    { "name": "Chuquisaca", "abbreviation": "", "country": "BO" },
-    { "name": "Cochabamba", "abbreviation": "", "country": "BO" },
-    { "name": "La Paz", "abbreviation": "", "country": "BO" },
-    { "name": "Oruro", "abbreviation": "", "country": "BO" },
-    { "name": "Pando", "abbreviation": "", "country": "BO" },
-    { "name": "Potosi", "abbreviation": "", "country": "BO" },
+    { "name": "Beni", "abbreviation": "B", "country": "BO" },
+    { "name": "Chuquisaca", "abbreviation": "H", "country": "BO" },
+    { "name": "Cochabamba", "abbreviation": "C", "country": "BO" },
+    { "name": "La Paz", "abbreviation": "L", "country": "BO" },
+    { "name": "Oruro", "abbreviation": "O", "country": "BO" },
+    { "name": "Pando", "abbreviation": "N", "country": "BO" },
+    { "name": "Potosi", "abbreviation": "P", "country": "BO" },
     { "name": "Santa Cruz", "abbreviation": "CR", "country": "BO" },
-    { "name": "Tarija", "abbreviation": "", "country": "BO" }
+    { "name": "Tarija", "abbreviation": "T", "country": "BO" }
   ]
 }

@@ -120,15 +120,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/mozambique",
   "states": [
-    { "name": "Cabo Delgado", "abbreviation": "", "country": "MZ" },
-    { "name": "Gaza", "abbreviation": "", "country": "MZ" },
-    { "name": "Inhambane", "abbreviation": "", "country": "MZ" },
-    { "name": "Manica", "abbreviation": "", "country": "MZ" },
+    { "name": "Cabo Delgado", "abbreviation": "P", "country": "MZ" },
+    { "name": "Gaza", "abbreviation": "G", "country": "MZ" },
+    { "name": "Inhambane", "abbreviation": "I", "country": "MZ" },
+    { "name": "Manica", "abbreviation": "B", "country": "MZ" },
     { "name": "Maputo", "abbreviation": "MPM", "country": "MZ" },
-    { "name": "Nampula", "abbreviation": "", "country": "MZ" },
-    { "name": "Niassa", "abbreviation": "", "country": "MZ" },
-    { "name": "Sofala", "abbreviation": "", "country": "MZ" },
-    { "name": "Tete", "abbreviation": "", "country": "MZ" },
-    { "name": "Zambezia", "abbreviation": "", "country": "MZ" }
+    { "name": "Nampula", "abbreviation": "N", "country": "MZ" },
+    { "name": "Niassa", "abbreviation": "A", "country": "MZ" },
+    { "name": "Sofala", "abbreviation": "S", "country": "MZ" },
+    { "name": "Tete", "abbreviation": "T", "country": "MZ" },
+    { "name": "Zambezia", "abbreviation": "Q", "country": "MZ" }
   ]
 }

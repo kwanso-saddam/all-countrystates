@@ -87,7 +87,7 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/finland",
   "states": [
-    { "name": "Aland", "abbreviation": "", "country": "FI" },
+    { "name": "Aland", "abbreviation": "01", "country": "FI" },
     { "name": "Etela-Suomen Laani", "abbreviation": "", "country": "FI" },
     { "name": "Ita-Suomen Laani", "abbreviation": "", "country": "FI" },
     { "name": "Lansi-Suomen Laani", "abbreviation": "", "country": "FI" },

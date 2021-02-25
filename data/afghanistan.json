@@ -14,9 +14,7 @@
       {
         "type": "Feature",
         "id": "AFG",
-        "properties": {
-          "name": "Afghanistan"
-        },
+        "properties": { "name": "Afghanistan" },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -96,10 +94,7 @@
       }
     ]
   },
-  "ISO": {
-    "alpha2": "AF",
-    "alpha3": "AFG"
-  },
+  "ISO": { "alpha2": "AF", "alpha3": "AFG" },
   "languages": ["ps", "uz", "tk"],
   "latlng": [33, 65],
   "nativeName": "افغانستان",
@@ -117,155 +112,35 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/afghanistan",
   "states": [
-    {
-      "name": "Badakhshan",
-      "abbreviation": "BDS",
-      "country": "AF"
-    },
-    {
-      "name": "Badghis",
-      "abbreviation": "BDG",
-      "country": "AF"
-    },
-    {
-      "name": "Baghlan",
-      "abbreviation": "BGL",
-      "country": "AF"
-    },
-    {
-      "name": "Balkh",
-      "abbreviation": "BAL",
-      "country": "AF"
-    },
-    {
-      "name": "Bamian",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Farah",
-      "abbreviation": "FRA",
-      "country": "AF"
-    },
-    {
-      "name": "Faryab",
-      "abbreviation": "FYB",
-      "country": "AF"
-    },
-    {
-      "name": "Ghazni",
-      "abbreviation": "GHA",
-      "country": "AF"
-    },
-    {
-      "name": "Ghowr",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Helmand",
-      "abbreviation": "HEL",
-      "country": "AF"
-    },
-    {
-      "name": "Herat",
-      "abbreviation": "HER",
-      "country": "AF"
-    },
-    {
-      "name": "Jowzjan",
-      "abbreviation": "JOW",
-      "country": "AF"
-    },
-    {
-      "name": "Kabol",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Kandahar",
-      "abbreviation": "KAN",
-      "country": "AF"
-    },
-    {
-      "name": "Kapisa",
-      "abbreviation": "KAP",
-      "country": "AF"
-    },
-    {
-      "name": "Konar",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Kondoz",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Laghman",
-      "abbreviation": "LAG",
-      "country": "AF"
-    },
-    {
-      "name": "Lowgar",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Nangarhar",
-      "abbreviation": "NAN",
-      "country": "AF"
-    },
-    {
-      "name": "Nimruz",
-      "abbreviation": "NIM",
-      "country": "AF"
-    },
-    {
-      "name": "Oruzgan",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Paktia",
-      "abbreviation": "PIA",
-      "country": "AF"
-    },
-    {
-      "name": "Paktika",
-      "abbreviation": "PKA",
-      "country": "AF"
-    },
-    {
-      "name": "Parvan",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Samangan",
-      "abbreviation": "SAM",
-      "country": "AF"
-    },
-    {
-      "name": "Sar-e Pol",
-      "abbreviation": "SAR",
-      "country": "AF"
-    },
-    {
-      "name": "Takhar",
-      "abbreviation": "TAK",
-      "country": "AF"
-    },
-    {
-      "name": "Vardak",
-      "abbreviation": "",
-      "country": "AF"
-    },
-    {
-      "name": "Zabol",
-      "abbreviation": "",
-      "country": "AF"
-    }
+    { "name": "Badakhshan", "abbreviation": "BDS", "country": "AF" },
+    { "name": "Badghis", "abbreviation": "BDG", "country": "AF" },
+    { "name": "Baghlan", "abbreviation": "BGL", "country": "AF" },
+    { "name": "Balkh", "abbreviation": "BAL", "country": "AF" },
+    { "name": "Bamyan", "abbreviation": "BAM", "country": "AF" },
+    { "name": "Farah", "abbreviation": "FRA", "country": "AF" },
+    { "name": "Faryab", "abbreviation": "FYB", "country": "AF" },
+    { "name": "Ghazni", "abbreviation": "GHA", "country": "AF" },
+    { "name": "Ghowr", "abbreviation": "GHO", "country": "AF" },
+    { "name": "Helmand", "abbreviation": "HEL", "country": "AF" },
+    { "name": "Herat", "abbreviation": "HER", "country": "AF" },
+    { "name": "Jowzjan", "abbreviation": "JOW", "country": "AF" },
+    { "name": "Kabul", "abbreviation": "KAB", "country": "AF" },
+    { "name": "Kandahar", "abbreviation": "KAN", "country": "AF" },
+    { "name": "Kapisa", "abbreviation": "KAP", "country": "AF" },
+    { "name": "Kunar", "abbreviation": "KNR", "country": "AF" },
+    { "name": "Kunduz", "abbreviation": "KDZ", "country": "AF" },
+    { "name": "Laghman", "abbreviation": "LAG", "country": "AF" },
+    { "name": "Logar", "abbreviation": "LOG", "country": "AF" },
+    { "name": "Nangarhar", "abbreviation": "NAN", "country": "AF" },
+    { "name": "Nimruz", "abbreviation": "NIM", "country": "AF" },
+    { "name": "Oruzgan", "abbreviation": "URU", "country": "AF" },
+    { "name": "Paktia", "abbreviation": "PIA", "country": "AF" },
+    { "name": "Paktika", "abbreviation": "PKA", "country": "AF" },
+    { "name": "Parwan", "abbreviation": "PAR", "country": "AF" },
+    { "name": "Samangan", "abbreviation": "SAM", "country": "AF" },
+    { "name": "Sar-e Pol", "abbreviation": "SAR", "country": "AF" },
+    { "name": "Takhar", "abbreviation": "TAK", "country": "AF" },
+    { "name": "Wardak", "abbreviation": "WAR", "country": "AF" },
+    { "name": "Zabul", "abbreviation": "ZAB", "country": "AF" }
   ]
 }

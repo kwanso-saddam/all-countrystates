@@ -26,5 +26,5 @@
     "it": "Singapore"
   },
   "wiki": "http://en.wikipedia.org/wiki/singapore",
-  "states": [{ "name": "Singapore", "abbreviation": "", "country": "SG" }]
+  "states": [{ "name": "Singapore", "abbreviation": "SG", "country": "SG" }]
 }

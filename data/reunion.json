@@ -26,5 +26,5 @@
     "it": "Riunione"
   },
   "wiki": "http://en.wikipedia.org/wiki/reunion",
-  "states": [{ "name": "Reunion", "abbreviation": "", "country": "RE" }]
+  "states": [{ "name": "Reunion", "abbreviation": "RE", "country": "RE" }]
 }

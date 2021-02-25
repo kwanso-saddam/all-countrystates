@@ -47,7 +47,7 @@
     { "name": "Grand' Anse (on Mahe)", "abbreviation": "", "country": "SC" },
     { "name": "Grand' Anse (on Praslin)", "abbreviation": "", "country": "SC" },
     { "name": "La Digue", "abbreviation": 15, "country": "SC" },
-    { "name": "La Riviere Anglaise", "abbreviation": "", "country": "SC" },
+    { "name": "La Riviere Anglaise", "abbreviation": "16", "country": "SC" },
     { "name": "Mont Buxton", "abbreviation": 17, "country": "SC" },
     { "name": "Mont Fleuri", "abbreviation": 18, "country": "SC" },
     { "name": "Plaisance", "abbreviation": 19, "country": "SC" },

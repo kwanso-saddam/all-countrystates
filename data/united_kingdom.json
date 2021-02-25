@@ -1,11 +1,21 @@
 {
   "name": "United Kingdom",
-  "altSpellings": ["GB", "UK", "Great Britain"],
+  "altSpellings": [
+    "GB",
+    "UK",
+    "Great Britain"
+  ],
   "area": 242900,
-  "borders": ["IRL"],
-  "callingCodes": ["44"],
+  "borders": [
+    "IRL"
+  ],
+  "callingCodes": [
+    "44"
+  ],
   "capital": "London",
-  "currencies": ["GBP"],
+  "currencies": [
+    "GBP"
+  ],
   "demonym": "British",
   "flag": "",
   "geoJSON": {
@@ -14,72 +24,242 @@
       {
         "type": "Feature",
         "id": "GBR",
-        "properties": { "name": "United Kingdom" },
+        "properties": {
+          "name": "United Kingdom"
+        },
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
             [
               [
-                [-5.661949, 54.554603],
-                [-6.197885, 53.867565],
-                [-6.95373, 54.073702],
-                [-7.572168, 54.059956],
-                [-7.366031, 54.595841],
-                [-7.572168, 55.131622],
-                [-6.733847, 55.17286],
-                [-5.661949, 54.554603]
+                [
+                  -5.661949,
+                  54.554603
+                ],
+                [
+                  -6.197885,
+                  53.867565
+                ],
+                [
+                  -6.95373,
+                  54.073702
+                ],
+                [
+                  -7.572168,
+                  54.059956
+                ],
+                [
+                  -7.366031,
+                  54.595841
+                ],
+                [
+                  -7.572168,
+                  55.131622
+                ],
+                [
+                  -6.733847,
+                  55.17286
+                ],
+                [
+                  -5.661949,
+                  54.554603
+                ]
               ]
             ],
             [
               [
-                [-3.005005, 58.635],
-                [-4.073828, 57.553025],
-                [-3.055002, 57.690019],
-                [-1.959281, 57.6848],
-                [-2.219988, 56.870017],
-                [-3.119003, 55.973793],
-                [-2.085009, 55.909998],
-                [-2.005676, 55.804903],
-                [-1.114991, 54.624986],
-                [-0.430485, 54.464376],
-                [0.184981, 53.325014],
-                [0.469977, 52.929999],
-                [1.681531, 52.73952],
-                [1.559988, 52.099998],
-                [1.050562, 51.806761],
-                [1.449865, 51.289428],
-                [0.550334, 50.765739],
-                [-0.787517, 50.774989],
-                [-2.489998, 50.500019],
-                [-2.956274, 50.69688],
-                [-3.617448, 50.228356],
-                [-4.542508, 50.341837],
-                [-5.245023, 49.96],
-                [-5.776567, 50.159678],
-                [-4.30999, 51.210001],
-                [-3.414851, 51.426009],
-                [-3.422719, 51.426848],
-                [-4.984367, 51.593466],
-                [-5.267296, 51.9914],
-                [-4.222347, 52.301356],
-                [-4.770013, 52.840005],
-                [-4.579999, 53.495004],
-                [-3.093831, 53.404547],
-                [-3.09208, 53.404441],
-                [-2.945009, 53.985],
-                [-3.614701, 54.600937],
-                [-3.630005, 54.615013],
-                [-4.844169, 54.790971],
-                [-5.082527, 55.061601],
-                [-4.719112, 55.508473],
-                [-5.047981, 55.783986],
-                [-5.586398, 55.311146],
-                [-5.644999, 56.275015],
-                [-6.149981, 56.78501],
-                [-5.786825, 57.818848],
-                [-5.009999, 58.630013],
-                [-4.211495, 58.550845],
-                [-3.005005, 58.635]
+                [
+                  -3.005005,
+                  58.635
+                ],
+                [
+                  -4.073828,
+                  57.553025
+                ],
+                [
+                  -3.055002,
+                  57.690019
+                ],
+                [
+                  -1.959281,
+                  57.6848
+                ],
+                [
+                  -2.219988,
+                  56.870017
+                ],
+                [
+                  -3.119003,
+                  55.973793
+                ],
+                [
+                  -2.085009,
+                  55.909998
+                ],
+                [
+                  -2.005676,
+                  55.804903
+                ],
+                [
+                  -1.114991,
+                  54.624986
+                ],
+                [
+                  -0.430485,
+                  54.464376
+                ],
+                [
+                  0.184981,
+                  53.325014
+                ],
+                [
+                  0.469977,
+                  52.929999
+                ],
+                [
+                  1.681531,
+                  52.73952
+                ],
+                [
+                  1.559988,
+                  52.099998
+                ],
+                [
+                  1.050562,
+                  51.806761
+                ],
+                [
+                  1.449865,
+                  51.289428
+                ],
+                [
+                  0.550334,
+                  50.765739
+                ],
+                [
+                  -0.787517,
+                  50.774989
+                ],
+                [
+                  -2.489998,
+                  50.500019
+                ],
+                [
+                  -2.956274,
+                  50.69688
+                ],
+                [
+                  -3.617448,
+                  50.228356
+                ],
+                [
+                  -4.542508,
+                  50.341837
+                ],
+                [
+                  -5.245023,
+                  49.96
+                ],
+                [
+                  -5.776567,
+                  50.159678
+                ],
+                [
+                  -4.30999,
+                  51.210001
+                ],
+                [
+                  -3.414851,
+                  51.426009
+                ],
+                [
+                  -3.422719,
+                  51.426848
+                ],
+                [
+                  -4.984367,
+                  51.593466
+                ],
+                [
+                  -5.267296,
+                  51.9914
+                ],
+                [
+                  -4.222347,
+                  52.301356
+                ],
+                [
+                  -4.770013,
+                  52.840005
+                ],
+                [
+                  -4.579999,
+                  53.495004
+                ],
+                [
+                  -3.093831,
+                  53.404547
+                ],
+                [
+                  -3.09208,
+                  53.404441
+                ],
+                [
+                  -2.945009,
+                  53.985
+                ],
+                [
+                  -3.614701,
+                  54.600937
+                ],
+                [
+                  -3.630005,
+                  54.615013
+                ],
+                [
+                  -4.844169,
+                  54.790971
+                ],
+                [
+                  -5.082527,
+                  55.061601
+                ],
+                [
+                  -4.719112,
+                  55.508473
+                ],
+                [
+                  -5.047981,
+                  55.783986
+                ],
+                [
+                  -5.586398,
+                  55.311146
+                ],
+                [
+                  -5.644999,
+                  56.275015
+                ],
+                [
+                  -6.149981,
+                  56.78501
+                ],
+                [
+                  -5.786825,
+                  57.818848
+                ],
+                [
+                  -5.009999,
+                  58.630013
+                ],
+                [
+                  -4.211495,
+                  58.550845
+                ],
+                [
+                  -3.005005,
+                  58.635
+                ]
               ]
             ]
           ]
@@ -87,9 +267,17 @@
       }
     ]
   },
-  "ISO": { "alpha2": "GB", "alpha3": "GBR" },
-  "languages": ["en"],
-  "latlng": [54, -2],
+  "ISO": {
+    "alpha2": "GB",
+    "alpha3": "GBR"
+  },
+  "languages": [
+    "en"
+  ],
+  "latlng": [
+    54,
+    -2
+  ],
   "nativeName": "United Kingdom",
   "population": 64105654,
   "region": "Europe",
@@ -105,7 +293,9 @@
     "UTC+02:00",
     "UTC+06:00"
   ],
-  "tld": [".uk"],
+  "tld": [
+    ".uk"
+  ],
   "translations": {
     "de": "Vereinigtes Königreich",
     "es": "Reino Unido",
@@ -115,174 +305,750 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/united_kingdom",
   "states": [
-    { "name": "Barking and Dagenham", "abbreviation": "", "country": "GB" },
-    { "name": "Barnet", "abbreviation": "", "country": "GB" },
-    { "name": "Barnsley", "abbreviation": "BNS", "country": "GB" },
+    {
+      "name": "Barking and Dagenham",
+      "abbreviation": "BDG",
+      "country": "GB"
+    },
+    {
+      "name": "Barnet",
+      "abbreviation": "BNE",
+      "country": "GB"
+    },
+    {
+      "name": "Barnsley",
+      "abbreviation": "BNS",
+      "country": "GB"
+    },
     {
       "name": "Bath and North East Somerset",
       "abbreviation": "BAS",
       "country": "GB"
     },
-    { "name": "Bedfordshire", "abbreviation": "", "country": "GB" },
-    { "name": "Bexley", "abbreviation": "", "country": "GB" },
-    { "name": "Birmingham", "abbreviation": "BIR", "country": "GB" },
-    { "name": "Blackburn with Darwen", "abbreviation": "BBD", "country": "GB" },
-    { "name": "Blackpool", "abbreviation": "BPL", "country": "GB" },
-    { "name": "Bolton", "abbreviation": "BOL", "country": "GB" },
-    { "name": "Bournemouth", "abbreviation": "BMH", "country": "GB" },
-    { "name": "Bracknell Forest", "abbreviation": "BRC", "country": "GB" },
-    { "name": "Bradford", "abbreviation": "BRD", "country": "GB" },
-    { "name": "Brent", "abbreviation": "", "country": "GB" },
-    { "name": "Brighton and Hove", "abbreviation": "BNH", "country": "GB" },
-    { "name": "Bromley", "abbreviation": "", "country": "GB" },
-    { "name": "Buckinghamshire", "abbreviation": "BKM", "country": "GB" },
-    { "name": "Bury", "abbreviation": "BUR", "country": "GB" },
-    { "name": "Calderdale", "abbreviation": "CLD", "country": "GB" },
-    { "name": "Cambridgeshire", "abbreviation": "CAM", "country": "GB" },
-    { "name": "Camden", "abbreviation": "", "country": "GB" },
-    { "name": "Cheshire", "abbreviation": "", "country": "GB" },
-    { "name": "City of Bristol", "abbreviation": "BST", "country": "GB" },
+    {
+      "name": "Bedfordshire",
+      "abbreviation": "CBF",
+      "country": "GB"
+    },
+    {
+      "name": "Bexley",
+      "abbreviation": "BEX",
+      "country": "GB"
+    },
+    {
+      "name": "Birmingham",
+      "abbreviation": "BIR",
+      "country": "GB"
+    },
+    {
+      "name": "Blackburn with Darwen",
+      "abbreviation": "BBD",
+      "country": "GB"
+    },
+    {
+      "name": "Blackpool",
+      "abbreviation": "BPL",
+      "country": "GB"
+    },
+    {
+      "name": "Bolton",
+      "abbreviation": "BOL",
+      "country": "GB"
+    },
+    {
+      "name": "Bournemouth",
+      "abbreviation": "BMH",
+      "country": "GB"
+    },
+    {
+      "name": "Bracknell Forest",
+      "abbreviation": "BRC",
+      "country": "GB"
+    },
+    {
+      "name": "Bradford",
+      "abbreviation": "BRD",
+      "country": "GB"
+    },
+    {
+      "name": "Brent",
+      "abbreviation": "BEN",
+      "country": "GB"
+    },
+    {
+      "name": "Brighton and Hove",
+      "abbreviation": "BNH",
+      "country": "GB"
+    },
+    {
+      "name": "Bromley",
+      "abbreviation": "BRY",
+      "country": "GB"
+    },
+    {
+      "name": "Buckinghamshire",
+      "abbreviation": "BKM",
+      "country": "GB"
+    },
+    {
+      "name": "Bury",
+      "abbreviation": "BUR",
+      "country": "GB"
+    },
+    {
+      "name": "Calderdale",
+      "abbreviation": "CLD",
+      "country": "GB"
+    },
+    {
+      "name": "Cambridgeshire",
+      "abbreviation": "CAM",
+      "country": "GB"
+    },
+    {
+      "name": "Camden",
+      "abbreviation": "CMD",
+      "country": "GB"
+    },
+    {
+      "name": "Cheshire",
+      "abbreviation": "CHW",
+      "country": "GB"
+    },
+    {
+      "name": "City of Bristol",
+      "abbreviation": "BST",
+      "country": "GB"
+    },
     {
       "name": "City of Kingston upon Hull",
       "abbreviation": "KHL",
       "country": "GB"
     },
-    { "name": "City of London", "abbreviation": "LND", "country": "GB" },
-    { "name": "Cornwall", "abbreviation": "CON", "country": "GB" },
-    { "name": "Coventry", "abbreviation": "COV", "country": "GB" },
-    { "name": "Croydon", "abbreviation": "", "country": "GB" },
-    { "name": "Cumbria", "abbreviation": "CMA", "country": "GB" },
-    { "name": "Darlington", "abbreviation": "DAL", "country": "GB" },
-    { "name": "Derby", "abbreviation": "", "country": "GB" },
-    { "name": "Derbyshire", "abbreviation": "DBY", "country": "GB" },
-    { "name": "Devon", "abbreviation": "DEV", "country": "GB" },
-    { "name": "Doncaster", "abbreviation": "DNC", "country": "GB" },
-    { "name": "Dorset", "abbreviation": "DOR", "country": "GB" },
-    { "name": "Dudley", "abbreviation": "DUD", "country": "GB" },
-    { "name": "Durham", "abbreviation": "", "country": "GB" },
-    { "name": "Ealing", "abbreviation": "", "country": "GB" },
+    {
+      "name": "City of London",
+      "abbreviation": "LND",
+      "country": "GB"
+    },
+    {
+      "name": "Cornwall",
+      "abbreviation": "CON",
+      "country": "GB"
+    },
+    {
+      "name": "Coventry",
+      "abbreviation": "COV",
+      "country": "GB"
+    },
+    {
+      "name": "Croydon",
+      "abbreviation": "CRY",
+      "country": "GB"
+    },
+    {
+      "name": "Cumbria",
+      "abbreviation": "CMA",
+      "country": "GB"
+    },
+    {
+      "name": "Darlington",
+      "abbreviation": "DAL",
+      "country": "GB"
+    },
+    {
+      "name": "Derby",
+      "abbreviation": "DER",
+      "country": "GB"
+    },
+    {
+      "name": "Derbyshire",
+      "abbreviation": "DBY",
+      "country": "GB"
+    },
+    {
+      "name": "Devon",
+      "abbreviation": "DEV",
+      "country": "GB"
+    },
+    {
+      "name": "Doncaster",
+      "abbreviation": "DNC",
+      "country": "GB"
+    },
+    {
+      "name": "Dorset",
+      "abbreviation": "DOR",
+      "country": "GB"
+    },
+    {
+      "name": "Dudley",
+      "abbreviation": "DUD",
+      "country": "GB"
+    },
+    {
+      "name": "Durham",
+      "abbreviation": "DUR",
+      "country": "GB"
+    },
+    {
+      "name": "Ealing",
+      "abbreviation": "EAL",
+      "country": "GB"
+    },
     {
       "name": "East Riding of Yorkshire",
       "abbreviation": "ERY",
       "country": "GB"
     },
-    { "name": "East Sussex", "abbreviation": "ESX", "country": "GB" },
-    { "name": "Enfield", "abbreviation": "", "country": "GB" },
-    { "name": "Essex", "abbreviation": "ESS", "country": "GB" },
-    { "name": "Gateshead", "abbreviation": "GAT", "country": "GB" },
-    { "name": "Gloucestershire", "abbreviation": "GLS", "country": "GB" },
-    { "name": "Greenwich", "abbreviation": "", "country": "GB" },
-    { "name": "Hackney", "abbreviation": "", "country": "GB" },
-    { "name": "Halton", "abbreviation": "HAL", "country": "GB" },
-    { "name": "Hammersmith and Fulham", "abbreviation": "", "country": "GB" },
-    { "name": "Hampshire", "abbreviation": "HAM", "country": "GB" },
-    { "name": "Haringey", "abbreviation": "", "country": "GB" },
-    { "name": "Harrow", "abbreviation": "", "country": "GB" },
-    { "name": "Hartlepool", "abbreviation": "HPL", "country": "GB" },
-    { "name": "Havering", "abbreviation": "", "country": "GB" },
-    { "name": "Herefordshire", "abbreviation": "HEF", "country": "GB" },
-    { "name": "Hertfordshire", "abbreviation": "HRT", "country": "GB" },
-    { "name": "Hillingdon", "abbreviation": "", "country": "GB" },
-    { "name": "Hounslow", "abbreviation": "", "country": "GB" },
-    { "name": "Isle of Wight", "abbreviation": "IOW", "country": "GB" },
-    { "name": "Islington", "abbreviation": "", "country": "GB" },
-    { "name": "Kensington and Chelsea", "abbreviation": "", "country": "GB" },
-    { "name": "Kent", "abbreviation": "KEN", "country": "GB" },
-    { "name": "Kingston upon Thames", "abbreviation": "", "country": "GB" },
-    { "name": "Kirklees", "abbreviation": "KIR", "country": "GB" },
-    { "name": "Knowsley", "abbreviation": "KWL", "country": "GB" },
-    { "name": "Lambeth", "abbreviation": "", "country": "GB" },
-    { "name": "Lancashire", "abbreviation": "LAN", "country": "GB" },
-    { "name": "Leeds", "abbreviation": "LDS", "country": "GB" },
-    { "name": "Leicester", "abbreviation": "", "country": "GB" },
-    { "name": "Leicestershire", "abbreviation": "LEC", "country": "GB" },
-    { "name": "Lewisham", "abbreviation": "", "country": "GB" },
-    { "name": "Lincolnshire", "abbreviation": "LIN", "country": "GB" },
-    { "name": "Liverpool", "abbreviation": "LIV", "country": "GB" },
-    { "name": "Luton", "abbreviation": "", "country": "GB" },
-    { "name": "Manchester", "abbreviation": "MAN", "country": "GB" },
-    { "name": "Medway", "abbreviation": "MDW", "country": "GB" },
-    { "name": "Merton", "abbreviation": "", "country": "GB" },
-    { "name": "Middlesbrough", "abbreviation": "MDB", "country": "GB" },
-    { "name": "Milton Keynes", "abbreviation": "MIK", "country": "GB" },
-    { "name": "Newcastle upon Tyne", "abbreviation": "NET", "country": "GB" },
-    { "name": "Newham", "abbreviation": "", "country": "GB" },
-    { "name": "Norfolk", "abbreviation": "NFK", "country": "GB" },
+    {
+      "name": "East Sussex",
+      "abbreviation": "ESX",
+      "country": "GB"
+    },
+    {
+      "name": "Enfield",
+      "abbreviation": "ENF",
+      "country": "GB"
+    },
+    {
+      "name": "Essex",
+      "abbreviation": "ESS",
+      "country": "GB"
+    },
+    {
+      "name": "Gateshead",
+      "abbreviation": "GAT",
+      "country": "GB"
+    },
+    {
+      "name": "Gloucestershire",
+      "abbreviation": "GLS",
+      "country": "GB"
+    },
+    {
+      "name": "Greenwich",
+      "abbreviation": "GRE",
+      "country": "GB"
+    },
+    {
+      "name": "Hackney",
+      "abbreviation": "HCK",
+      "country": "GB"
+    },
+    {
+      "name": "Halton",
+      "abbreviation": "HAL",
+      "country": "GB"
+    },
+    {
+      "name": "Hammersmith and Fulham",
+      "abbreviation": "HMF",
+      "country": "GB"
+    },
+    {
+      "name": "Hampshire",
+      "abbreviation": "HAM",
+      "country": "GB"
+    },
+    {
+      "name": "Haringey",
+      "abbreviation": "HRY",
+      "country": "GB"
+    },
+    {
+      "name": "Harrow",
+      "abbreviation": "HRW",
+      "country": "GB"
+    },
+    {
+      "name": "Hartlepool",
+      "abbreviation": "HPL",
+      "country": "GB"
+    },
+    {
+      "name": "Havering",
+      "abbreviation": "HAV",
+      "country": "GB"
+    },
+    {
+      "name": "Herefordshire",
+      "abbreviation": "HEF",
+      "country": "GB"
+    },
+    {
+      "name": "Hertfordshire",
+      "abbreviation": "HRT",
+      "country": "GB"
+    },
+    {
+      "name": "Hillingdon",
+      "abbreviation": "HIL",
+      "country": "GB"
+    },
+    {
+      "name": "Hounslow",
+      "abbreviation": "HNS",
+      "country": "GB"
+    },
+    {
+      "name": "Isle of Wight",
+      "abbreviation": "IOW",
+      "country": "GB"
+    },
+    {
+      "name": "Islington",
+      "abbreviation": "ISL",
+      "country": "GB"
+    },
+    {
+      "name": "Kensington and Chelsea",
+      "abbreviation": "KEC",
+      "country": "GB"
+    },
+    {
+      "name": "Kent",
+      "abbreviation": "KEN",
+      "country": "GB"
+    },
+    {
+      "name": "Kingston upon Thames",
+      "abbreviation": "KTT",
+      "country": "GB"
+    },
+    {
+      "name": "Kirklees",
+      "abbreviation": "KIR",
+      "country": "GB"
+    },
+    {
+      "name": "Knowsley",
+      "abbreviation": "KWL",
+      "country": "GB"
+    },
+    {
+      "name": "Lambeth",
+      "abbreviation": "LBH",
+      "country": "GB"
+    },
+    {
+      "name": "Lancashire",
+      "abbreviation": "LAN",
+      "country": "GB"
+    },
+    {
+      "name": "Leeds",
+      "abbreviation": "LDS",
+      "country": "GB"
+    },
+    {
+      "name": "Leicester",
+      "abbreviation": "LCE",
+      "country": "GB"
+    },
+    {
+      "name": "Leicestershire",
+      "abbreviation": "LEC",
+      "country": "GB"
+    },
+    {
+      "name": "Lewisham",
+      "abbreviation": "LEW",
+      "country": "GB"
+    },
+    {
+      "name": "Lincolnshire",
+      "abbreviation": "LIN",
+      "country": "GB"
+    },
+    {
+      "name": "Liverpool",
+      "abbreviation": "LIV",
+      "country": "GB"
+    },
+    {
+      "name": "Luton",
+      "abbreviation": "LU",
+      "country": "GB"
+    },
+    {
+      "name": "Manchester",
+      "abbreviation": "MAN",
+      "country": "GB"
+    },
+    {
+      "name": "Medway",
+      "abbreviation": "MDW",
+      "country": "GB"
+    },
+    {
+      "name": "Merton",
+      "abbreviation": "MRT",
+      "country": "GB"
+    },
+    {
+      "name": "Middlesbrough",
+      "abbreviation": "MDB",
+      "country": "GB"
+    },
+    {
+      "name": "Milton Keynes",
+      "abbreviation": "MIK",
+      "country": "GB"
+    },
+    {
+      "name": "Newcastle upon Tyne",
+      "abbreviation": "NET",
+      "country": "GB"
+    },
+    {
+      "name": "Newham",
+      "abbreviation": "NWM",
+      "country": "GB"
+    },
+    {
+      "name": "Norfolk",
+      "abbreviation": "NFK",
+      "country": "GB"
+    },
     {
       "name": "North East Lincolnshire",
       "abbreviation": "NEL",
       "country": "GB"
     },
-    { "name": "North Lincolnshire", "abbreviation": "NLN", "country": "GB" },
-    { "name": "North Somerset", "abbreviation": "NSM", "country": "GB" },
-    { "name": "North Tyneside", "abbreviation": "NTY", "country": "GB" },
-    { "name": "North Yorkshire", "abbreviation": "NYK", "country": "GB" },
-    { "name": "Northamptonshire", "abbreviation": "NTH", "country": "GB" },
-    { "name": "Northumberland", "abbreviation": "NBL", "country": "GB" },
-    { "name": "Nottingham", "abbreviation": "", "country": "GB" },
-    { "name": "Nottinghamshire", "abbreviation": "NTT", "country": "GB" },
-    { "name": "Oldham", "abbreviation": "OLD", "country": "GB" },
-    { "name": "Oxfordshire", "abbreviation": "OXF", "country": "GB" },
-    { "name": "Peterborough", "abbreviation": "", "country": "GB" },
-    { "name": "Plymouth", "abbreviation": "", "country": "GB" },
-    { "name": "Poole", "abbreviation": "POL", "country": "GB" },
-    { "name": "Portsmouth", "abbreviation": "", "country": "GB" },
-    { "name": "Reading", "abbreviation": "RDG", "country": "GB" },
-    { "name": "Redbridge", "abbreviation": "", "country": "GB" },
-    { "name": "Redcar and Cleveland", "abbreviation": "RCC", "country": "GB" },
-    { "name": "Richmond upon Thames", "abbreviation": "", "country": "GB" },
-    { "name": "Rochdale", "abbreviation": "RCH", "country": "GB" },
-    { "name": "Rotherham", "abbreviation": "ROT", "country": "GB" },
-    { "name": "Rutland", "abbreviation": "RUT", "country": "GB" },
-    { "name": "Salford", "abbreviation": "SLF", "country": "GB" },
-    { "name": "Sandwell", "abbreviation": "SAW", "country": "GB" },
-    { "name": "Sefton", "abbreviation": "SFT", "country": "GB" },
-    { "name": "Sheffield", "abbreviation": "SHF", "country": "GB" },
-    { "name": "Shropshire", "abbreviation": "SHR", "country": "GB" },
-    { "name": "Slough", "abbreviation": "SLG", "country": "GB" },
-    { "name": "Solihull", "abbreviation": "SOL", "country": "GB" },
-    { "name": "Somerset", "abbreviation": "SOM", "country": "GB" },
-    { "name": "South Gloucestershire", "abbreviation": "SGC", "country": "GB" },
-    { "name": "South Tyneside", "abbreviation": "STY", "country": "GB" },
-    { "name": "Southampton", "abbreviation": "", "country": "GB" },
-    { "name": "Southend-on-Sea", "abbreviation": "SOS", "country": "GB" },
-    { "name": "Southwark", "abbreviation": "", "country": "GB" },
-    { "name": "St. Helens", "abbreviation": "", "country": "GB" },
-    { "name": "Staffordshire", "abbreviation": "STS", "country": "GB" },
-    { "name": "Stockport", "abbreviation": "SKP", "country": "GB" },
-    { "name": "Stockton-on-Tees", "abbreviation": "STT", "country": "GB" },
-    { "name": "Stoke-on-Trent", "abbreviation": "", "country": "GB" },
-    { "name": "Suffolk", "abbreviation": "SFK", "country": "GB" },
-    { "name": "Sunderland", "abbreviation": "", "country": "GB" },
-    { "name": "Surrey", "abbreviation": "SRY", "country": "GB" },
-    { "name": "Sutton", "abbreviation": "", "country": "GB" },
-    { "name": "Swindon", "abbreviation": "SWD", "country": "GB" },
-    { "name": "Tameside", "abbreviation": "TAM", "country": "GB" },
-    { "name": "Telford and Wrekin", "abbreviation": "TFW", "country": "GB" },
-    { "name": "Thurrock", "abbreviation": "THR", "country": "GB" },
-    { "name": "Torbay", "abbreviation": "TOB", "country": "GB" },
-    { "name": "Tower Hamlets", "abbreviation": "", "country": "GB" },
-    { "name": "Trafford", "abbreviation": "TRF", "country": "GB" },
-    { "name": "Wakefield", "abbreviation": "WKF", "country": "GB" },
-    { "name": "Walsall", "abbreviation": "WLL", "country": "GB" },
-    { "name": "Waltham Forest", "abbreviation": "", "country": "GB" },
-    { "name": "Wandsworth", "abbreviation": "", "country": "GB" },
-    { "name": "Warrington", "abbreviation": "WRT", "country": "GB" },
-    { "name": "Warwickshire", "abbreviation": "WAR", "country": "GB" },
-    { "name": "West Berkshire", "abbreviation": "WBK", "country": "GB" },
-    { "name": "West Sussex", "abbreviation": "WSX", "country": "GB" },
-    { "name": "Westminster", "abbreviation": "", "country": "GB" },
-    { "name": "Wigan", "abbreviation": "", "country": "GB" },
-    { "name": "Wiltshire", "abbreviation": "WIL", "country": "GB" },
+    {
+      "name": "North Lincolnshire",
+      "abbreviation": "NLN",
+      "country": "GB"
+    },
+    {
+      "name": "North Somerset",
+      "abbreviation": "NSM",
+      "country": "GB"
+    },
+    {
+      "name": "North Tyneside",
+      "abbreviation": "NTY",
+      "country": "GB"
+    },
+    {
+      "name": "North Yorkshire",
+      "abbreviation": "NYK",
+      "country": "GB"
+    },
+    {
+      "name": "Northamptonshire",
+      "abbreviation": "NTH",
+      "country": "GB"
+    },
+    {
+      "name": "Northumberland",
+      "abbreviation": "NBL",
+      "country": "GB"
+    },
+    {
+      "name": "Nottingham",
+      "abbreviation": "NGM",
+      "country": "GB"
+    },
+    {
+      "name": "Nottinghamshire",
+      "abbreviation": "NTT",
+      "country": "GB"
+    },
+    {
+      "name": "Oldham",
+      "abbreviation": "OLD",
+      "country": "GB"
+    },
+    {
+      "name": "Oxfordshire",
+      "abbreviation": "OXF",
+      "country": "GB"
+    },
+    {
+      "name": "Peterborough",
+      "abbreviation": "PTE",
+      "country": "GB"
+    },
+    {
+      "name": "Plymouth",
+      "abbreviation": "PLY",
+      "country": "GB"
+    },
+    {
+      "name": "Poole",
+      "abbreviation": "POL",
+      "country": "GB"
+    },
+    {
+      "name": "Portsmouth",
+      "abbreviation": "POR",
+      "country": "GB"
+    },
+    {
+      "name": "Reading",
+      "abbreviation": "RDG",
+      "country": "GB"
+    },
+    {
+      "name": "Redbridge",
+      "abbreviation": "RDB",
+      "country": "GB"
+    },
+    {
+      "name": "Redcar and Cleveland",
+      "abbreviation": "RCC",
+      "country": "GB"
+    },
+    {
+      "name": "Richmond upon Thames",
+      "abbreviation": "RIC",
+      "country": "GB"
+    },
+    {
+      "name": "Rochdale",
+      "abbreviation": "RCH",
+      "country": "GB"
+    },
+    {
+      "name": "Rotherham",
+      "abbreviation": "ROT",
+      "country": "GB"
+    },
+    {
+      "name": "Rutland",
+      "abbreviation": "RUT",
+      "country": "GB"
+    },
+    {
+      "name": "Salford",
+      "abbreviation": "SLF",
+      "country": "GB"
+    },
+    {
+      "name": "Sandwell",
+      "abbreviation": "SAW",
+      "country": "GB"
+    },
+    {
+      "name": "Sefton",
+      "abbreviation": "SFT",
+      "country": "GB"
+    },
+    {
+      "name": "Sheffield",
+      "abbreviation": "SHF",
+      "country": "GB"
+    },
+    {
+      "name": "Shropshire",
+      "abbreviation": "SHR",
+      "country": "GB"
+    },
+    {
+      "name": "Slough",
+      "abbreviation": "SLG",
+      "country": "GB"
+    },
+    {
+      "name": "Solihull",
+      "abbreviation": "SOL",
+      "country": "GB"
+    },
+    {
+      "name": "Somerset",
+      "abbreviation": "SOM",
+      "country": "GB"
+    },
+    {
+      "name": "South Gloucestershire",
+      "abbreviation": "SGC",
+      "country": "GB"
+    },
+    {
+      "name": "South Tyneside",
+      "abbreviation": "STY",
+      "country": "GB"
+    },
+    {
+      "name": "Southampton",
+      "abbreviation": "STH",
+      "country": "GB"
+    },
+    {
+      "name": "Southend-on-Sea",
+      "abbreviation": "SOS",
+      "country": "GB"
+    },
+    {
+      "name": "Southwark",
+      "abbreviation": "SWK",
+      "country": "GB"
+    },
+    {
+      "name": "St. Helens",
+      "abbreviation": "SHN",
+      "country": "GB"
+    },
+    {
+      "name": "Staffordshire",
+      "abbreviation": "STS",
+      "country": "GB"
+    },
+    {
+      "name": "Stockport",
+      "abbreviation": "SKP",
+      "country": "GB"
+    },
+    {
+      "name": "Stockton-on-Tees",
+      "abbreviation": "STT",
+      "country": "GB"
+    },
+    {
+      "name": "Stoke-on-Trent",
+      "abbreviation": "STE",
+      "country": "GB"
+    },
+    {
+      "name": "Suffolk",
+      "abbreviation": "SFK",
+      "country": "GB"
+    },
+    {
+      "name": "Sunderland",
+      "abbreviation": "SND",
+      "country": "GB"
+    },
+    {
+      "name": "Surrey",
+      "abbreviation": "SRY",
+      "country": "GB"
+    },
+    {
+      "name": "Sutton",
+      "abbreviation": "STN",
+      "country": "GB"
+    },
+    {
+      "name": "Swindon",
+      "abbreviation": "SWD",
+      "country": "GB"
+    },
+    {
+      "name": "Tameside",
+      "abbreviation": "TAM",
+      "country": "GB"
+    },
+    {
+      "name": "Telford and Wrekin",
+      "abbreviation": "TFW",
+      "country": "GB"
+    },
+    {
+      "name": "Thurrock",
+      "abbreviation": "THR",
+      "country": "GB"
+    },
+    {
+      "name": "Torbay",
+      "abbreviation": "TOB",
+      "country": "GB"
+    },
+    {
+      "name": "Tower Hamlets",
+      "abbreviation": "TWH",
+      "country": "GB"
+    },
+    {
+      "name": "Trafford",
+      "abbreviation": "TRF",
+      "country": "GB"
+    },
+    {
+      "name": "Wakefield",
+      "abbreviation": "WKF",
+      "country": "GB"
+    },
+    {
+      "name": "Walsall",
+      "abbreviation": "WLL",
+      "country": "GB"
+    },
+    {
+      "name": "Waltham Forest",
+      "abbreviation": "WFT",
+      "country": "GB"
+    },
+    {
+      "name": "Wandsworth",
+      "abbreviation": "WND",
+      "country": "GB"
+    },
+    {
+      "name": "Warrington",
+      "abbreviation": "WRT",
+      "country": "GB"
+    },
+    {
+      "name": "Warwickshire",
+      "abbreviation": "WAR",
+      "country": "GB"
+    },
+    {
+      "name": "West Berkshire",
+      "abbreviation": "WBK",
+      "country": "GB"
+    },
+    {
+      "name": "West Sussex",
+      "abbreviation": "WSX",
+      "country": "GB"
+    },
+    {
+      "name": "Westminster",
+      "abbreviation": "WSM",
+      "country": "GB"
+    },
+    {
+      "name": "Wigan",
+      "abbreviation": "WGN",
+      "country": "GB"
+    },
+    {
+      "name": "Wiltshire",
+      "abbreviation": "WIL",
+      "country": "GB"
+    },
     {
       "name": "Windsor and Maidenhead",
       "abbreviation": "WNM",
       "country": "GB"
     },
-    { "name": "Wirral", "abbreviation": "WRL", "country": "GB" },
-    { "name": "Wokingham", "abbreviation": "WOK", "country": "GB" },
-    { "name": "Wolverhampton", "abbreviation": "", "country": "GB" },
-    { "name": "Worcestershire", "abbreviation": "WOR", "country": "GB" },
-    { "name": "York", "abbreviation": "", "country": "GB" }
+    {
+      "name": "Wirral",
+      "abbreviation": "WRL",
+      "country": "GB"
+    },
+    {
+      "name": "Wokingham",
+      "abbreviation": "WOK",
+      "country": "GB"
+    },
+    {
+      "name": "Wolverhampton",
+      "abbreviation": "WLV",
+      "country": "GB"
+    },
+    {
+      "name": "Worcestershire",
+      "abbreviation": "WOR",
+      "country": "GB"
+    },
+    {
+      "name": "York",
+      "abbreviation": "YOR",
+      "country": "GB"
+    }
   ]
 }

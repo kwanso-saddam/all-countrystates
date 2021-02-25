@@ -108,14 +108,14 @@
   "wiki": "http://en.wikipedia.org/wiki/ethiopia",
   "states": [
     { "name": "Adis Abeba (Addis Ababa)", "abbreviation": "", "country": "ET" },
-    { "name": "Afar", "abbreviation": "", "country": "ET" },
+    { "name": "Afar", "abbreviation": "AF", "country": "ET" },
     { "name": "Amara", "abbreviation": "", "country": "ET" },
     { "name": "Dire Dawa", "abbreviation": "DD", "country": "ET" },
     { "name": "Gambela Hizboch", "abbreviation": "", "country": "ET" },
     { "name": "Hareri Hizb", "abbreviation": "", "country": "ET" },
     { "name": "Oromiya", "abbreviation": "", "country": "ET" },
     { "name": "Sumale", "abbreviation": "", "country": "ET" },
-    { "name": "Tigray", "abbreviation": "", "country": "ET" },
+    { "name": "Tigray", "abbreviation": "TI", "country": "ET" },
     {
       "name": "YeDebub Biheroch Bihereseboch na Hizboch",
       "abbreviation": "",

@@ -54,19 +54,19 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/jamaica",
   "states": [
-    { "name": "Clarendon", "abbreviation": "", "country": "JM" },
-    { "name": "Hanover", "abbreviation": "", "country": "JM" },
-    { "name": "Kingston", "abbreviation": "", "country": "JM" },
+    { "name": "Clarendon", "abbreviation": "13", "country": "JM" },
+    { "name": "Hanover", "abbreviation": "09", "country": "JM" },
+    { "name": "Kingston", "abbreviation": "01", "country": "JM" },
     { "name": "Manchester", "abbreviation": "MAN", "country": "JM" },
-    { "name": "Portland", "abbreviation": "", "country": "JM" },
+    { "name": "Portland", "abbreviation": "04", "country": "JM" },
     { "name": "Saint Andrew", "abbreviation": "02", "country": "JM" },
-    { "name": "Saint Ann", "abbreviation": "", "country": "JM" },
-    { "name": "Saint Catherine", "abbreviation": "", "country": "JM" },
-    { "name": "Saint Elizabeth", "abbreviation": "", "country": "JM" },
+    { "name": "Saint Ann", "abbreviation": "06", "country": "JM" },
+    { "name": "Saint Catherine", "abbreviation": "14", "country": "JM" },
+    { "name": "Saint Elizabeth", "abbreviation": "11", "country": "JM" },
     { "name": "Saint James", "abbreviation": "04", "country": "JM" },
-    { "name": "Saint Mary", "abbreviation": "", "country": "JM" },
+    { "name": "Saint Mary", "abbreviation": "05", "country": "JM" },
     { "name": "Saint Thomas", "abbreviation": 11, "country": "JM" },
-    { "name": "Trelawny", "abbreviation": "", "country": "JM" },
-    { "name": "Westmoreland", "abbreviation": "", "country": "JM" }
+    { "name": "Trelawny", "abbreviation": "07", "country": "JM" },
+    { "name": "Westmoreland", "abbreviation": "10", "country": "JM" }
   ]
 }

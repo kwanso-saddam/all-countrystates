@@ -68,15 +68,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/ghana",
   "states": [
-    { "name": "Ashanti", "abbreviation": "", "country": "GH" },
-    { "name": "Brong-Ahafo", "abbreviation": "", "country": "GH" },
-    { "name": "Central", "abbreviation": "", "country": "GH" },
+    { "name": "Ashanti", "abbreviation": "AH", "country": "GH" },
+    { "name": "Brong-Ahafo", "abbreviation": "BA", "country": "GH" },
+    { "name": "Central", "abbreviation": "200", "country": "GH" },
     { "name": "Eastern", "abbreviation": "HEA", "country": "GH" },
-    { "name": "Greater Accra", "abbreviation": "", "country": "GH" },
+    { "name": "Greater Accra", "abbreviation": "AA", "country": "GH" },
     { "name": "Northern", "abbreviation": "NO", "country": "GH" },
-    { "name": "Upper East", "abbreviation": "", "country": "GH" },
-    { "name": "Upper West", "abbreviation": "", "country": "GH" },
-    { "name": "Volta", "abbreviation": "", "country": "GH" },
-    { "name": "Western", "abbreviation": "", "country": "GH" }
+    { "name": "Upper East", "abbreviation": "UE", "country": "GH" },
+    { "name": "Upper West", "abbreviation": "UW", "country": "GH" },
+    { "name": "Volta", "abbreviation": "TV", "country": "GH" },
+    { "name": "Western", "abbreviation": "800", "country": "GH" }
   ]
 }

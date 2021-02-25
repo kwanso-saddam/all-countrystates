@@ -4,10 +4,5 @@
   "ISO": {},
   "tld": [],
   "wiki": "http://en.wikipedia.org/wiki/gaza_strip",
-  "states": [
-    {
-      "name": "Gaza Strip",
-      "abbreviation": ""
-    }
-  ]
+  "states": [{ "name": "Gaza Strip", "abbreviation": "" }]
 }

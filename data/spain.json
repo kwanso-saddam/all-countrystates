@@ -129,9 +129,9 @@
     { "name": "Galicia", "abbreviation": "GA", "country": "SS" },
     { "name": "Islas Chafarinas", "abbreviation": "", "country": "SS" },
     { "name": "La Rioja", "abbreviation": "RI", "country": "SS" },
-    { "name": "Madrid", "abbreviation": "", "country": "SS" },
+    { "name": "Madrid", "abbreviation": "M", "country": "SS" },
     { "name": "Melilla", "abbreviation": "ML", "country": "SS" },
-    { "name": "Murcia", "abbreviation": "", "country": "SS" },
+    { "name": "Murcia", "abbreviation": "MU", "country": "SS" },
     { "name": "Navarra", "abbreviation": "", "country": "SS" },
     {
       "name": "Pais Vasco (Basque Country)",

@@ -33,19 +33,19 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/nauru",
   "states": [
-    { "name": "Aiwo", "abbreviation": "", "country": "NR" },
-    { "name": "Anabar", "abbreviation": "", "country": "NR" },
-    { "name": "Anetan", "abbreviation": "", "country": "NR" },
-    { "name": "Anibare", "abbreviation": "", "country": "NR" },
-    { "name": "Baiti", "abbreviation": "", "country": "NR" },
-    { "name": "Boe", "abbreviation": "", "country": "NR" },
-    { "name": "Buada", "abbreviation": "", "country": "NR" },
-    { "name": "Denigomodu", "abbreviation": "", "country": "NR" },
-    { "name": "Ewa", "abbreviation": "", "country": "NR" },
-    { "name": "Ijuw", "abbreviation": "", "country": "NR" },
-    { "name": "Meneng", "abbreviation": "", "country": "NR" },
-    { "name": "Nibok", "abbreviation": "", "country": "NR" },
-    { "name": "Uaboe", "abbreviation": "", "country": "NR" },
-    { "name": "Yaren", "abbreviation": "", "country": "NR" }
+    { "name": "Aiwo", "abbreviation": "01", "country": "NR" },
+    { "name": "Anabar", "abbreviation": "02", "country": "NR" },
+    { "name": "Anetan", "abbreviation": "03", "country": "NR" },
+    { "name": "Anibare", "abbreviation": "04", "country": "NR" },
+    { "name": "Baiti", "abbreviation": "05", "country": "NR" },
+    { "name": "Boe", "abbreviation": "06", "country": "NR" },
+    { "name": "Buada", "abbreviation": "07", "country": "NR" },
+    { "name": "Denigomodu", "abbreviation": "08", "country": "NR" },
+    { "name": "Ewa", "abbreviation": "09", "country": "NR" },
+    { "name": "Ijuw", "abbreviation": "10", "country": "NR" },
+    { "name": "Meneng", "abbreviation": "11", "country": "NR" },
+    { "name": "Nibok", "abbreviation": "12", "country": "NR" },
+    { "name": "Uaboe", "abbreviation": "13", "country": "NR" },
+    { "name": "Yaren", "abbreviation": "14", "country": "NR" }
   ]
 }

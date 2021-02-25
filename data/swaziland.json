@@ -61,9 +61,9 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/swaziland",
   "states": [
-    { "name": "Hhohho", "abbreviation": "", "country": "SZ" },
-    { "name": "Lubombo", "abbreviation": "", "country": "SZ" },
-    { "name": "Manzini", "abbreviation": "", "country": "SZ" },
-    { "name": "Shiselweni", "abbreviation": "", "country": "SZ" }
+    { "name": "Hhohho", "abbreviation": "HH", "country": "SZ" },
+    { "name": "Lubombo", "abbreviation": "LU", "country": "SZ" },
+    { "name": "Manzini", "abbreviation": "MA", "country": "SZ" },
+    { "name": "Shiselweni", "abbreviation": "SH", "country": "SZ" }
   ]
 }

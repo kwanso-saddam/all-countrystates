@@ -65,11 +65,11 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/cyprus",
   "states": [
-    { "name": "Famagusta", "abbreviation": "", "country": "CY" },
-    { "name": "Kyrenia", "abbreviation": "", "country": "CY" },
-    { "name": "Larnaca", "abbreviation": "", "country": "CY" },
-    { "name": "Limassol", "abbreviation": "", "country": "CY" },
-    { "name": "Nicosia", "abbreviation": "", "country": "CY" },
-    { "name": "Paphos", "abbreviation": "", "country": "CY" }
+    { "name": "Famagusta", "abbreviation": "04", "country": "CY" },
+    { "name": "Kyrenia", "abbreviation": "06", "country": "CY" },
+    { "name": "Larnaca", "abbreviation": "03", "country": "CY" },
+    { "name": "Limassol", "abbreviation": "02", "country": "CY" },
+    { "name": "Nicosia", "abbreviation": "01", "country": "CY" },
+    { "name": "Paphos", "abbreviation": "05", "country": "CY" }
   ]
 }

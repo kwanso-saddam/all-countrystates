@@ -79,12 +79,12 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/costa_rica",
   "states": [
-    { "name": "Alajuela", "abbreviation": "", "country": "CR" },
+    { "name": "Alajuela", "abbreviation": "A", "country": "CR" },
     { "name": "Cartago", "abbreviation": "", "country": "CR" },
-    { "name": "Guanacaste", "abbreviation": "", "country": "CR" },
-    { "name": "Heredia", "abbreviation": "", "country": "CR" },
-    { "name": "Limon", "abbreviation": "", "country": "CR" },
-    { "name": "Puntarenas", "abbreviation": "", "country": "CR" },
-    { "name": "San Jose", "abbreviation": "", "country": "CR" }
+    { "name": "Guanacaste", "abbreviation": "G", "country": "CR" },
+    { "name": "Heredia", "abbreviation": "H", "country": "CR" },
+    { "name": "Limon", "abbreviation": "L", "country": "CR" },
+    { "name": "Puntarenas", "abbreviation": "P", "country": "CR" },
+    { "name": "San Jose", "abbreviation": "SJ", "country": "CR" }
   ]
 }

@@ -104,14 +104,14 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/zambia",
   "states": [
-    { "name": "Central", "abbreviation": "", "country": "ZM" },
-    { "name": "Copperbelt", "abbreviation": "", "country": "ZM" },
+    { "name": "Central", "abbreviation": "200", "country": "ZM" },
+    { "name": "Copperbelt", "abbreviation": "08", "country": "ZM" },
     { "name": "Eastern", "abbreviation": "HEA", "country": "ZM" },
-    { "name": "Luapula", "abbreviation": "", "country": "ZM" },
-    { "name": "Lusaka", "abbreviation": "", "country": "ZM" },
-    { "name": "North-Western", "abbreviation": "", "country": "ZM" },
+    { "name": "Luapula", "abbreviation": "04", "country": "ZM" },
+    { "name": "Lusaka", "abbreviation": "09", "country": "ZM" },
+    { "name": "North-Western", "abbreviation": "06", "country": "ZM" },
     { "name": "Northern", "abbreviation": "NO", "country": "ZM" },
     { "name": "Southern", "abbreviation": "HSO", "country": "ZM" },
-    { "name": "Western", "abbreviation": "", "country": "ZM" }
+    { "name": "Western", "abbreviation": "800", "country": "ZM" }
   ]
 }

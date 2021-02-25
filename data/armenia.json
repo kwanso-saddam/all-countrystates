@@ -68,15 +68,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/armenia",
   "states": [
-    { "name": "Aragatsotn", "abbreviation": "", "country": "AM" },
-    { "name": "Ararat", "abbreviation": "", "country": "AM" },
-    { "name": "Armavir", "abbreviation": "", "country": "AM" },
+    { "name": "Aragatsotn", "abbreviation": "AG", "country": "AM" },
+    { "name": "Ararat", "abbreviation": "AR", "country": "AM" },
+    { "name": "Armavir", "abbreviation": "AV", "country": "AM" },
     { "name": "Geghark'unik'", "abbreviation": "", "country": "AM" },
     { "name": "Kotayk'", "abbreviation": "", "country": "AM" },
     { "name": "Lorri", "abbreviation": "", "country": "AM" },
-    { "name": "Shirak", "abbreviation": "", "country": "AM" },
+    { "name": "Shirak", "abbreviation": "SH", "country": "AM" },
     { "name": "Syunik'", "abbreviation": "", "country": "AM" },
-    { "name": "Tavush", "abbreviation": "", "country": "AM" },
+    { "name": "Tavush", "abbreviation": "TV", "country": "AM" },
     { "name": "Vayots' Dzor", "abbreviation": "", "country": "AM" },
     { "name": "Yerevan", "abbreviation": "ER", "country": "AM" }
   ]

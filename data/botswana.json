@@ -83,19 +83,19 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/botswana",
   "states": [
-    { "name": "Central", "abbreviation": "", "country": "BW" },
+    { "name": "Central", "abbreviation": "200", "country": "BW" },
     { "name": "Chobe", "abbreviation": "", "country": "BW" },
     { "name": "Francistown", "abbreviation": "", "country": "BW" },
     { "name": "Gaborone", "abbreviation": "", "country": "BW" },
-    { "name": "Ghanzi", "abbreviation": "", "country": "BW" },
-    { "name": "Kgalagadi", "abbreviation": "", "country": "BW" },
-    { "name": "Kgatleng", "abbreviation": "", "country": "BW" },
-    { "name": "Kweneng", "abbreviation": "", "country": "BW" },
+    { "name": "Ghanzi", "abbreviation": "GH", "country": "BW" },
+    { "name": "Kgalagadi", "abbreviation": "KG", "country": "BW" },
+    { "name": "Kgatleng", "abbreviation": "KL", "country": "BW" },
+    { "name": "Kweneng", "abbreviation": "KW", "country": "BW" },
     { "name": "Lobatse", "abbreviation": "", "country": "BW" },
     { "name": "Ngamiland", "abbreviation": "NG", "country": "BW" },
-    { "name": "North-East", "abbreviation": "", "country": "BW" },
+    { "name": "North-East", "abbreviation": "NE", "country": "BW" },
     { "name": "Selebi-Pikwe", "abbreviation": "", "country": "BW" },
-    { "name": "South-East", "abbreviation": "", "country": "BW" },
+    { "name": "South-East", "abbreviation": "SE", "country": "BW" },
     { "name": "Southern", "abbreviation": "HSO", "country": "BW" }
   ]
 }

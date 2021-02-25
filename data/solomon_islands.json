@@ -99,15 +99,15 @@
   "wiki": "http://en.wikipedia.org/wiki/solomon_islands",
   "states": [
     { "name": "Bellona", "abbreviation": "", "country": "SB" },
-    { "name": "Central", "abbreviation": "", "country": "SB" },
+    { "name": "Central", "abbreviation": "200", "country": "SB" },
     { "name": "Choiseul (Lauru)", "abbreviation": "", "country": "SB" },
-    { "name": "Guadalcanal", "abbreviation": "", "country": "SB" },
+    { "name": "Guadalcanal", "abbreviation": "GU", "country": "SB" },
     { "name": "Honiara", "abbreviation": "CT", "country": "SB" },
-    { "name": "Isabel", "abbreviation": "", "country": "SB" },
+    { "name": "Isabel", "abbreviation": "IS", "country": "SB" },
     { "name": "Makira", "abbreviation": "", "country": "SB" },
-    { "name": "Malaita", "abbreviation": "", "country": "SB" },
+    { "name": "Malaita", "abbreviation": "ML", "country": "SB" },
     { "name": "Rennell", "abbreviation": "", "country": "SB" },
-    { "name": "Temotu", "abbreviation": "", "country": "SB" },
-    { "name": "Western", "abbreviation": "", "country": "SB" }
+    { "name": "Temotu", "abbreviation": "TE", "country": "SB" },
+    { "name": "Western", "abbreviation": "800", "country": "SB" }
   ]
 }

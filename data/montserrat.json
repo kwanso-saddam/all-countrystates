@@ -28,7 +28,7 @@
   "wiki": "http://en.wikipedia.org/wiki/montserrat",
   "states": [
     { "name": "Saint Anthony", "abbreviation": "", "country": "MS" },
-    { "name": "Saint Georges", "abbreviation": "", "country": "MS" },
+    { "name": "Saint Georges", "abbreviation": "SG", "country": "MS" },
     { "name": "Saint Peter's", "abbreviation": "", "country": "MS" }
   ]
 }

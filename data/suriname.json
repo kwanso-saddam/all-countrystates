@@ -75,15 +75,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/suriname",
   "states": [
-    { "name": "Brokopondo", "abbreviation": "", "country": "SR" },
-    { "name": "Commewijne", "abbreviation": "", "country": "SR" },
-    { "name": "Coronie", "abbreviation": "", "country": "SR" },
-    { "name": "Marowijne", "abbreviation": "", "country": "SR" },
-    { "name": "Nickerie", "abbreviation": "", "country": "SR" },
-    { "name": "Para", "abbreviation": "", "country": "SR" },
-    { "name": "Paramaribo", "abbreviation": "", "country": "SR" },
-    { "name": "Saramacca", "abbreviation": "", "country": "SR" },
-    { "name": "Sipaliwini", "abbreviation": "", "country": "SR" },
-    { "name": "Wanica", "abbreviation": "", "country": "SR" }
+    { "name": "Brokopondo", "abbreviation": "BR", "country": "SR" },
+    { "name": "Commewijne", "abbreviation": "CM", "country": "SR" },
+    { "name": "Coronie", "abbreviation": "CR", "country": "SR" },
+    { "name": "Marowijne", "abbreviation": "MA", "country": "SR" },
+    { "name": "Nickerie", "abbreviation": "NI", "country": "SR" },
+    { "name": "Para", "abbreviation": "PR", "country": "SR" },
+    { "name": "Paramaribo", "abbreviation": "PM", "country": "SR" },
+    { "name": "Saramacca", "abbreviation": "SA", "country": "SR" },
+    { "name": "Sipaliwini", "abbreviation": "SI", "country": "SR" },
+    { "name": "Wanica", "abbreviation": "WA", "country": "SR" }
   ]
 }

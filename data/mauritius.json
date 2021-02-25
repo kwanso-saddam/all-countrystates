@@ -30,14 +30,14 @@
     { "name": "Agalega Islands", "abbreviation": "", "country": "MU" },
     { "name": "Black River", "abbreviation": "", "country": "MU" },
     { "name": "Cargados Carajos Shoals", "abbreviation": "", "country": "MU" },
-    { "name": "Flacq", "abbreviation": "", "country": "MU" },
-    { "name": "Grand Port", "abbreviation": "", "country": "MU" },
-    { "name": "Moka", "abbreviation": "", "country": "MU" },
-    { "name": "Pamplemousses", "abbreviation": "", "country": "MU" },
-    { "name": "Plaines Wilhems", "abbreviation": "", "country": "MU" },
+    { "name": "Flacq", "abbreviation": "FL", "country": "MU" },
+    { "name": "Grand Port", "abbreviation": "GP", "country": "MU" },
+    { "name": "Moka", "abbreviation": "MO", "country": "MU" },
+    { "name": "Pamplemousses", "abbreviation": "PA", "country": "MU" },
+    { "name": "Plaines Wilhems", "abbreviation": "PW", "country": "MU" },
     { "name": "Port Louis", "abbreviation": "PU", "country": "MU" },
-    { "name": "Riviere du Rempart", "abbreviation": "", "country": "MU" },
+    { "name": "Riviere du Rempart", "abbreviation": "RR", "country": "MU" },
     { "name": "Rodrigues", "abbreviation": "RO", "country": "MU" },
-    { "name": "Savanne", "abbreviation": "", "country": "MU" }
+    { "name": "Savanne", "abbreviation": "SA", "country": "MU" }
   ]
 }

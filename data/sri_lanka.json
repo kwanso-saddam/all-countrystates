@@ -57,15 +57,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/sri_lanka",
   "states": [
-    { "name": "Central", "abbreviation": "", "country": "LK" },
+    { "name": "Central", "abbreviation": "200", "country": "LK" },
     { "name": "Eastern", "abbreviation": "HEA", "country": "LK" },
-    { "name": "North Central", "abbreviation": "", "country": "LK" },
-    { "name": "North Eastern", "abbreviation": "", "country": "LK" },
-    { "name": "North Western", "abbreviation": "", "country": "LK" },
+    { "name": "North Central", "abbreviation": "NC", "country": "LK" },
+    { "name": "North Eastern", "abbreviation": "500", "country": "LK" },
+    { "name": "North Western", "abbreviation": "6", "country": "LK" },
     { "name": "Northern", "abbreviation": "NO", "country": "LK" },
-    { "name": "Sabaragamuwa", "abbreviation": "", "country": "LK" },
+    { "name": "Sabaragamuwa", "abbreviation": "9", "country": "LK" },
     { "name": "Southern", "abbreviation": "HSO", "country": "LK" },
-    { "name": "Uva", "abbreviation": "", "country": "LK" },
-    { "name": "Western", "abbreviation": "", "country": "LK" }
+    { "name": "Uva", "abbreviation": "8", "country": "LK" },
+    { "name": "Western", "abbreviation": "800", "country": "LK" }
   ]
 }

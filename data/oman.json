@@ -96,13 +96,13 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/oman",
   "states": [
-    { "name": "Ad Dakhiliyah", "abbreviation": "", "country": "OM" },
-    { "name": "Al Batinah", "abbreviation": "", "country": "OM" },
-    { "name": "Al Wusta", "abbreviation": "", "country": "OM" },
-    { "name": "Ash Sharqiyah", "abbreviation": "", "country": "OM" },
+    { "name": "Ad Dakhiliyah", "abbreviation": "DA", "country": "OM" },
+    { "name": "Al Batinah", "abbreviation": "BA", "country": "OM" },
+    { "name": "Al Wusta", "abbreviation": "WU", "country": "OM" },
+    { "name": "Ash Sharqiyah", "abbreviation": "SH", "country": "OM" },
     { "name": "Az Zahirah", "abbreviation": "", "country": "OM" },
     { "name": "Masqat", "abbreviation": "", "country": "OM" },
-    { "name": "Musandam", "abbreviation": "", "country": "OM" },
+    { "name": "Musandam", "abbreviation": "MU", "country": "OM" },
     { "name": "Zufar", "abbreviation": "", "country": "OM" }
   ]
 }

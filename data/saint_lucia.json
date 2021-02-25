@@ -28,15 +28,15 @@
   "wiki": "http://en.wikipedia.org/wiki/saint_lucia",
   "states": [
     { "name": "Anse-la-Raye", "abbreviation": "", "country": "LC" },
-    { "name": "Castries", "abbreviation": "", "country": "LC" },
-    { "name": "Choiseul", "abbreviation": "", "country": "LC" },
-    { "name": "Dauphin", "abbreviation": "", "country": "LC" },
-    { "name": "Dennery", "abbreviation": "", "country": "LC" },
-    { "name": "Gros Islet", "abbreviation": "", "country": "LC" },
-    { "name": "Laborie", "abbreviation": "", "country": "LC" },
-    { "name": "Micoud", "abbreviation": "", "country": "LC" },
-    { "name": "Praslin", "abbreviation": "", "country": "LC" },
+    { "name": "Castries", "abbreviation": "02", "country": "LC" },
+    { "name": "Choiseul", "abbreviation": "CH", "country": "LC" },
+    { "name": "Dauphin", "abbreviation": "04", "country": "LC" },
+    { "name": "Dennery", "abbreviation": "05", "country": "LC" },
+    { "name": "Gros Islet", "abbreviation": "06", "country": "LC" },
+    { "name": "Laborie", "abbreviation": "07", "country": "LC" },
+    { "name": "Micoud", "abbreviation": "08", "country": "LC" },
+    { "name": "Praslin", "abbreviation": "09", "country": "LC" },
     { "name": "Soufriere", "abbreviation": "", "country": "LC" },
-    { "name": "Vieux Fort", "abbreviation": "", "country": "LC" }
+    { "name": "Vieux Fort", "abbreviation": "11", "country": "LC" }
   ]
 }

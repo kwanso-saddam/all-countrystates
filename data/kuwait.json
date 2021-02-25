@@ -53,9 +53,9 @@
   "wiki": "http://en.wikipedia.org/wiki/kuwait",
   "states": [
     { "name": "Al 'Asimah", "abbreviation": "", "country": "KW" },
-    { "name": "Al Ahmadi", "abbreviation": "", "country": "KW" },
-    { "name": "Al Farwaniyah", "abbreviation": "", "country": "KW" },
+    { "name": "Al Ahmadi", "abbreviation": "AH", "country": "KW" },
+    { "name": "Al Farwaniyah", "abbreviation": "FA", "country": "KW" },
     { "name": "Al Jahra'", "abbreviation": "", "country": "KW" },
-    { "name": "Hawalli", "abbreviation": "", "country": "KW" }
+    { "name": "Hawalli", "abbreviation": "HA", "country": "KW" }
   ]
 }

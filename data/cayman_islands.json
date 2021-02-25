@@ -34,6 +34,6 @@
     { "name": "Spot Bay", "abbreviation": "", "country": "KY" },
     { "name": "Stake Bay", "abbreviation": "", "country": "KY" },
     { "name": "West End", "abbreviation": "", "country": "KY" },
-    { "name": "Western", "abbreviation": "", "country": "KY" }
+    { "name": "Western", "abbreviation": "800", "country": "KY" }
   ]
 }

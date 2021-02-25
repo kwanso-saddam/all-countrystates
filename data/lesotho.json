@@ -55,15 +55,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/lesotho",
   "states": [
-    { "name": "Berea", "abbreviation": "", "country": "LS" },
-    { "name": "Butha-Buthe", "abbreviation": "", "country": "LS" },
-    { "name": "Leribe", "abbreviation": "", "country": "LS" },
-    { "name": "Mafeteng", "abbreviation": "", "country": "LS" },
-    { "name": "Maseru", "abbreviation": "", "country": "LS" },
-    { "name": "Mohales Hoek", "abbreviation": "", "country": "LS" },
-    { "name": "Mokhotlong", "abbreviation": "", "country": "LS" },
-    { "name": "Qacha's Nek", "abbreviation": "", "country": "LS" },
-    { "name": "Quthing", "abbreviation": "", "country": "LS" },
-    { "name": "Thaba-Tseka", "abbreviation": "", "country": "LS" }
+    { "name": "Berea", "abbreviation": "D", "country": "LS" },
+    { "name": "Butha-Buthe", "abbreviation": "B", "country": "LS" },
+    { "name": "Leribe", "abbreviation": "C", "country": "LS" },
+    { "name": "Mafeteng", "abbreviation": "E", "country": "LS" },
+    { "name": "Maseru", "abbreviation": "A", "country": "LS" },
+    { "name": "Mohales Hoek", "abbreviation": "F", "country": "LS" },
+    { "name": "Mokhotlong", "abbreviation": "J", "country": "LS" },
+    { "name": "Qacha's Nek", "abbreviation": "H", "country": "LS" },
+    { "name": "Quthing", "abbreviation": "G", "country": "LS" },
+    { "name": "Thaba-Tseka", "abbreviation": "K", "country": "LS" }
   ]
 }

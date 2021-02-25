@@ -82,7 +82,7 @@
     { "name": "Fribourg", "abbreviation": "", "country": "CH" },
     { "name": "Geneve", "abbreviation": "", "country": "CH" },
     { "name": "Glarus", "abbreviation": "GL", "country": "CH" },
-    { "name": "Graubunden", "abbreviation": "", "country": "CH" },
+    { "name": "Graubunden", "abbreviation": "GR", "country": "CH" },
     { "name": "Inner-Rhoden", "abbreviation": "", "country": "CH" },
     { "name": "Jura", "abbreviation": "", "country": "CH" },
     { "name": "Luzern", "abbreviation": "", "country": "CH" },

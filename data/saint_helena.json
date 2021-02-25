@@ -27,7 +27,7 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/saint_helena",
   "states": [
-    { "name": "Ascension", "abbreviation": "", "country": "SH" },
+    { "name": "Ascension", "abbreviation": "SH-AC", "country": "SH" },
     { "name": "Saint Helena", "abbreviation": "SH-HL", "country": "SH" },
     { "name": "Tristan da Cunha", "abbreviation": "", "country": "SH" }
   ]

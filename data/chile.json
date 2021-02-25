@@ -168,29 +168,29 @@
       "abbreviation": "",
       "country": "CL"
     },
-    { "name": "Antofagasta", "abbreviation": "", "country": "CL" },
-    { "name": "Araucania", "abbreviation": "", "country": "CL" },
-    { "name": "Atacama", "abbreviation": "", "country": "CL" },
+    { "name": "Antofagasta", "abbreviation": "AN", "country": "CL" },
+    { "name": "Araucania", "abbreviation": "AR", "country": "CL" },
+    { "name": "Atacama", "abbreviation": "AT", "country": "CL" },
     { "name": "Bio-Bio", "abbreviation": "", "country": "CL" },
-    { "name": "Coquimbo", "abbreviation": "", "country": "CL" },
+    { "name": "Coquimbo", "abbreviation": "CO", "country": "CL" },
     {
       "name": "Libertador General Bernardo O'Higgins",
       "abbreviation": "",
       "country": "CL"
     },
-    { "name": "Los Lagos", "abbreviation": "", "country": "CL" },
+    { "name": "Los Lagos", "abbreviation": "LL", "country": "CL" },
     {
       "name": "Magallanes y de la Antartica Chilena",
       "abbreviation": "",
       "country": "CL"
     },
-    { "name": "Maule", "abbreviation": "", "country": "CL" },
+    { "name": "Maule", "abbreviation": "ML", "country": "CL" },
     {
       "name": "Region Metropolitana (Santiago)",
       "abbreviation": "",
       "country": "CL"
     },
-    { "name": "Tarapaca", "abbreviation": "", "country": "CL" },
-    { "name": "Valparaiso", "abbreviation": "", "country": "CL" }
+    { "name": "Tarapaca", "abbreviation": "TA", "country": "CL" },
+    { "name": "Valparaiso", "abbreviation": "VS", "country": "CL" }
   ]
 }

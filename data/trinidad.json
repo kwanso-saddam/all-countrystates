@@ -57,9 +57,9 @@
     { "name": "Nariva", "abbreviation": "", "country": "TT" },
     { "name": "Port-of-Spain", "abbreviation": "", "country": "TT" },
     { "name": "Saint Andrew", "abbreviation": "02", "country": "TT" },
-    { "name": "Saint David", "abbreviation": "", "country": "TT" },
+    { "name": "Saint David", "abbreviation": "03", "country": "TT" },
     { "name": "Saint George", "abbreviation": "03", "country": "TT" },
-    { "name": "Saint Patrick", "abbreviation": "", "country": "TT" },
+    { "name": "Saint Patrick", "abbreviation": "05", "country": "TT" },
     { "name": "San Fernando", "abbreviation": "SFO", "country": "TT" },
     { "name": "Victoria", "abbreviation": "VIC", "country": "TT" }
   ]

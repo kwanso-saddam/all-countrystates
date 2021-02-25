@@ -63,11 +63,11 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/belize",
   "states": [
-    { "name": "Belize", "abbreviation": "", "country": "BZ" },
-    { "name": "Cayo", "abbreviation": "", "country": "BZ" },
-    { "name": "Corozal", "abbreviation": "", "country": "BZ" },
-    { "name": "Orange Walk", "abbreviation": "", "country": "BZ" },
-    { "name": "Stann Creek", "abbreviation": "", "country": "BZ" },
-    { "name": "Toledo", "abbreviation": "", "country": "BZ" }
+    { "name": "Belize", "abbreviation": "BZ", "country": "BZ" },
+    { "name": "Cayo", "abbreviation": "CY", "country": "BZ" },
+    { "name": "Corozal", "abbreviation": "CZL", "country": "BZ" },
+    { "name": "Orange Walk", "abbreviation": "OW", "country": "BZ" },
+    { "name": "Stann Creek", "abbreviation": "SC", "country": "BZ" },
+    { "name": "Toledo", "abbreviation": "TO", "country": "BZ" }
   ]
 }

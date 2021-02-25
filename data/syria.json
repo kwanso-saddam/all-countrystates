@@ -85,8 +85,8 @@
     { "name": "Halab", "abbreviation": "", "country": "SY" },
     { "name": "Hamah", "abbreviation": "", "country": "SY" },
     { "name": "Hims", "abbreviation": "", "country": "SY" },
-    { "name": "Idlib", "abbreviation": "", "country": "SY" },
-    { "name": "Rif Dimashq", "abbreviation": "", "country": "SY" },
-    { "name": "Tartus", "abbreviation": "", "country": "SY" }
+    { "name": "Idlib", "abbreviation": "ID", "country": "SY" },
+    { "name": "Rif Dimashq", "abbreviation": "RD", "country": "SY" },
+    { "name": "Tartus", "abbreviation": "TA", "country": "SY" }
   ]
 }

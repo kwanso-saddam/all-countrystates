@@ -27,7 +27,7 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/barbados",
   "states": [
-    { "name": "Bridgetown", "abbreviation": "", "country": "BB" },
+    { "name": "Bridgetown", "abbreviation": "BGI", "country": "BB" },
     { "name": "Christ Church", "abbreviation": "01", "country": "BB" },
     { "name": "Saint Andrew", "abbreviation": "02", "country": "BB" },
     { "name": "Saint George", "abbreviation": "03", "country": "BB" },

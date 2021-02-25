@@ -97,11 +97,11 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/madagascar",
   "states": [
-    { "name": "Antananarivo", "abbreviation": "", "country": "MG" },
-    { "name": "Antsiranana", "abbreviation": "", "country": "MG" },
-    { "name": "Fianarantsoa", "abbreviation": "", "country": "MG" },
-    { "name": "Mahajanga", "abbreviation": "", "country": "MG" },
-    { "name": "Toamasina", "abbreviation": "", "country": "MG" },
-    { "name": "Toliara", "abbreviation": "", "country": "MG" }
+    { "name": "Antananarivo", "abbreviation": "T", "country": "MG" },
+    { "name": "Antsiranana", "abbreviation": "D", "country": "MG" },
+    { "name": "Fianarantsoa", "abbreviation": "F", "country": "MG" },
+    { "name": "Mahajanga", "abbreviation": "M", "country": "MG" },
+    { "name": "Toamasina", "abbreviation": "A", "country": "MG" },
+    { "name": "Toliara", "abbreviation": "U", "country": "MG" }
   ]
 }

@@ -14,9 +14,7 @@
       {
         "type": "Feature",
         "id": "ALB",
-        "properties": {
-          "name": "Albania"
-        },
+        "properties": { "name": "Albania" },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -49,10 +47,7 @@
       }
     ]
   },
-  "ISO": {
-    "alpha2": "AL",
-    "alpha3": "ALB"
-  },
+  "ISO": { "alpha2": "AL", "alpha3": "ALB" },
   "languages": ["sq"],
   "latlng": [41, 20],
   "nativeName": "Shqipëria",
@@ -70,190 +65,46 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/albania",
   "states": [
-    {
-      "name": "Berat",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Bulqize",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Delvine",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Devoll (Bilisht)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Diber (Peshkopi)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Durres",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Elbasan",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Fier",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Gjirokaster",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Gramsh",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Has (Krume)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Kavaje",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Kolonje (Erseke)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Korce",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Kruje",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Kucove",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Kukes",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Kurbin",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Lezhe",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Librazhd",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Lushnje",
-      "abbreviation": "",
-      "country": "AL"
-    },
+    { "name": "Berat", "abbreviation": "BR", "country": "AL" },
+    { "name": "Bulqize", "abbreviation": "BU", "country": "AL" },
+    { "name": "Delvine", "abbreviation": "DL", "country": "AL" },
+    { "name": "Devoll (Bilisht)", "abbreviation": "DV", "country": "AL" },
+    { "name": "Diber (Peshkopi)", "abbreviation": "09", "country": "AL" },
+    { "name": "Durres", "abbreviation": "02", "country": "AL" },
+    { "name": "Elbasan", "abbreviation": "03", "country": "AL" },
+    { "name": "Fier", "abbreviation": "FR", "country": "AL" },
+    { "name": "Gjirokaster", "abbreviation": "05", "country": "AL" },
+    { "name": "Gramsh", "abbreviation": "GR", "country": "AL" },
+    { "name": "Has (Krume)", "abbreviation": "HA", "country": "AL" },
+    { "name": "Kavaje", "abbreviation": "KA", "country": "AL" },
+    { "name": "Kolonje (Erseke)", "abbreviation": "ER", "country": "AL" },
+    { "name": "Korce", "abbreviation": "KO", "country": "AL" },
+    { "name": "Kruje", "abbreviation": "KR", "country": "AL" },
+    { "name": "Kucove", "abbreviation": "KC", "country": "AL" },
+    { "name": "Kukes", "abbreviation": "07", "country": "AL" },
+    { "name": "Kurbin", "abbreviation": "KB", "country": "AL" },
+    { "name": "Lezhe", "abbreviation": "LE", "country": "AL" },
+    { "name": "Librazhd", "abbreviation": "LB", "country": "AL" },
+    { "name": "Lushnje", "abbreviation": "LU", "country": "AL" },
     {
       "name": "Malesi e Madhe (Koplik)",
-      "abbreviation": "",
+      "abbreviation": "MM",
       "country": "AL"
     },
-    {
-      "name": "Mallakaster (Ballsh)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Mat (Burrel)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Mirdite (Rreshen)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Peqin",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Permet",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Pogradec",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Puke",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Sarande",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Shkoder",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Skrapar (Corovode)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Tepelene",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Tirane (Tirana)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Tirane (Tirana)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Tropoje (Bajram Curri)",
-      "abbreviation": "",
-      "country": "AL"
-    },
-    {
-      "name": "Vlore",
-      "abbreviation": "",
-      "country": "AL"
-    }
+    { "name": "Mallakaster (Ballsh)", "abbreviation": "MK", "country": "AL" },
+    { "name": "Mat (Burrel)", "abbreviation": "MT", "country": "AL" },
+    { "name": "Mirdite (Rreshen)", "abbreviation": "MR", "country": "AL" },
+    { "name": "Peqin", "abbreviation": "PQ", "country": "AL" },
+    { "name": "Permet", "abbreviation": "PR", "country": "AL" },
+    { "name": "Pogradec", "abbreviation": "PG", "country": "AL" },
+    { "name": "Puke", "abbreviation": "PU", "country": "AL" },
+    { "name": "Sarande", "abbreviation": "SR", "country": "AL" },
+    { "name": "Shkoder", "abbreviation": "10", "country": "AL" },
+    { "name": "Skrapar (Corovode)", "abbreviation": "SK", "country": "AL" },
+    { "name": "Tepelene", "abbreviation": "TE", "country": "AL" },
+    { "name": "Tirane (Tirana)", "abbreviation": "11", "country": "AL" },
+    { "name": "Tirane (Tirana)", "abbreviation": "11", "country": "AL" },
+    { "name": "Tropoje (Bajram Curri)", "abbreviation": "TP", "country": "AL" },
+    { "name": "Vlore", "abbreviation": "VL", "country": "AL" }
   ]
 }

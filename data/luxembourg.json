@@ -56,8 +56,8 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/luxembourg",
   "states": [
-    { "name": "Diekirch", "abbreviation": "", "country": "LU" },
-    { "name": "Grevenmacher", "abbreviation": "", "country": "LU" },
+    { "name": "Diekirch", "abbreviation": "D", "country": "LU" },
+    { "name": "Grevenmacher", "abbreviation": "G", "country": "LU" },
     { "name": "Luxembourg", "abbreviation": "WLX", "country": "LU" }
   ]
 }

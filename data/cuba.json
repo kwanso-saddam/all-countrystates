@@ -85,20 +85,20 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/cuba",
   "states": [
-    { "name": "Camaguey", "abbreviation": "", "country": "CU" },
-    { "name": "Ciego de Avila", "abbreviation": "", "country": "CU" },
-    { "name": "Cienfuegos", "abbreviation": "", "country": "CU" },
+    { "name": "Camaguey", "abbreviation": "09", "country": "CU" },
+    { "name": "Ciego de Avila", "abbreviation": "08", "country": "CU" },
+    { "name": "Cienfuegos", "abbreviation": "06", "country": "CU" },
     { "name": "Ciudad de La Habana", "abbreviation": "", "country": "CU" },
-    { "name": "Granma", "abbreviation": "", "country": "CU" },
-    { "name": "Guantanamo", "abbreviation": "", "country": "CU" },
-    { "name": "Holguin", "abbreviation": "", "country": "CU" },
+    { "name": "Granma", "abbreviation": "12", "country": "CU" },
+    { "name": "Guantanamo", "abbreviation": "14", "country": "CU" },
+    { "name": "Holguin", "abbreviation": "11", "country": "CU" },
     { "name": "Isla de la Juventud", "abbreviation": 99, "country": "CU" },
     { "name": "La Habana", "abbreviation": "", "country": "CU" },
-    { "name": "Las Tunas", "abbreviation": "", "country": "CU" },
-    { "name": "Matanzas", "abbreviation": "", "country": "CU" },
-    { "name": "Pinar del Rio", "abbreviation": "", "country": "CU" },
-    { "name": "Sancti Spiritus", "abbreviation": "", "country": "CU" },
-    { "name": "Santiago de Cuba", "abbreviation": "", "country": "CU" },
-    { "name": "Villa Clara", "abbreviation": "", "country": "CU" }
+    { "name": "Las Tunas", "abbreviation": "10", "country": "CU" },
+    { "name": "Matanzas", "abbreviation": "04", "country": "CU" },
+    { "name": "Pinar del Rio", "abbreviation": "01", "country": "CU" },
+    { "name": "Sancti Spiritus", "abbreviation": "07", "country": "CU" },
+    { "name": "Santiago de Cuba", "abbreviation": "13", "country": "CU" },
+    { "name": "Villa Clara", "abbreviation": "05", "country": "CU" }
   ]
 }

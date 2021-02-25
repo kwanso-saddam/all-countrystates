@@ -70,18 +70,18 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/liberia",
   "states": [
-    { "name": "Bomi", "abbreviation": "", "country": "LR" },
-    { "name": "Bong", "abbreviation": "", "country": "LR" },
-    { "name": "Grand Bassa", "abbreviation": "", "country": "LR" },
-    { "name": "Grand Cape Mount", "abbreviation": "", "country": "LR" },
-    { "name": "Grand Gedeh", "abbreviation": "", "country": "LR" },
-    { "name": "Grand Kru", "abbreviation": "", "country": "LR" },
-    { "name": "Lofa", "abbreviation": "", "country": "LR" },
-    { "name": "Margibi", "abbreviation": "", "country": "LR" },
+    { "name": "Bomi", "abbreviation": "BM", "country": "LR" },
+    { "name": "Bong", "abbreviation": "BG", "country": "LR" },
+    { "name": "Grand Bassa", "abbreviation": "GB", "country": "LR" },
+    { "name": "Grand Cape Mount", "abbreviation": "CM", "country": "LR" },
+    { "name": "Grand Gedeh", "abbreviation": "GG", "country": "LR" },
+    { "name": "Grand Kru", "abbreviation": "GK", "country": "LR" },
+    { "name": "Lofa", "abbreviation": "LO", "country": "LR" },
+    { "name": "Margibi", "abbreviation": "MG", "country": "LR" },
     { "name": "Maryland", "abbreviation": "MD", "country": "LR" },
-    { "name": "Montserrado", "abbreviation": "", "country": "LR" },
+    { "name": "Montserrado", "abbreviation": "MO", "country": "LR" },
     { "name": "Nimba", "abbreviation": "NI", "country": "LR" },
-    { "name": "River Cess", "abbreviation": "", "country": "LR" },
-    { "name": "Sinoe", "abbreviation": "", "country": "LR" }
+    { "name": "River Cess", "abbreviation": "RI", "country": "LR" },
+    { "name": "Sinoe", "abbreviation": "SI", "country": "LR" }
   ]
 }

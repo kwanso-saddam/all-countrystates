@@ -165,15 +165,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/congo_republic_of_the",
   "states": [
-    { "name": "Bouenza", "abbreviation": "", "country": "CD" },
+    { "name": "Bouenza", "abbreviation": "11", "country": "CD" },
     { "name": "Brazzaville", "abbreviation": "BZV", "country": "CD" },
-    { "name": "Cuvette", "abbreviation": "", "country": "CD" },
-    { "name": "Kouilou", "abbreviation": "", "country": "CD" },
-    { "name": "Lekoumou", "abbreviation": "", "country": "CD" },
-    { "name": "Likouala", "abbreviation": "", "country": "CD" },
-    { "name": "Niari", "abbreviation": "", "country": "CD" },
-    { "name": "Plateaux", "abbreviation": "", "country": "CD" },
-    { "name": "Pool", "abbreviation": "", "country": "CD" },
-    { "name": "Sangha", "abbreviation": "", "country": "CD" }
+    { "name": "Cuvette", "abbreviation": "8", "country": "CD" },
+    { "name": "Kouilou", "abbreviation": "5", "country": "CD" },
+    { "name": "Lekoumou", "abbreviation": "2", "country": "CD" },
+    { "name": "Likouala", "abbreviation": "7", "country": "CD" },
+    { "name": "Niari", "abbreviation": "9", "country": "CD" },
+    { "name": "Plateaux", "abbreviation": "P", "country": "CD" },
+    { "name": "Pool", "abbreviation": "12", "country": "CD" },
+    { "name": "Sangha", "abbreviation": "13", "country": "CD" }
   ]
 }

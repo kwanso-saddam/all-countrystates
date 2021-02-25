@@ -70,5 +70,7 @@
     "it": "Sahara Occidentale"
   },
   "wiki": "http://en.wikipedia.org/wiki/western_sahara",
-  "states": [{ "name": "Western Sahara", "abbreviation": "", "country": "EH" }]
+  "states": [
+    { "name": "Western Sahara", "abbreviation": "EH", "country": "EH" }
+  ]
 }

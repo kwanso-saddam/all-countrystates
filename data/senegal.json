@@ -88,14 +88,14 @@
   "wiki": "http://en.wikipedia.org/wiki/senegal",
   "states": [
     { "name": "Dakar", "abbreviation": "DK", "country": "SN" },
-    { "name": "Diourbel", "abbreviation": "", "country": "SN" },
+    { "name": "Diourbel", "abbreviation": "DB", "country": "SN" },
     { "name": "Fatick", "abbreviation": "FK", "country": "SN" },
     { "name": "Kaolack", "abbreviation": "KL", "country": "SN" },
     { "name": "Kolda", "abbreviation": "KD", "country": "SN" },
     { "name": "Louga", "abbreviation": "LG", "country": "SN" },
     { "name": "Saint-Louis", "abbreviation": "SL", "country": "SN" },
-    { "name": "Tambacounda", "abbreviation": "", "country": "SN" },
-    { "name": "Thies", "abbreviation": "", "country": "SN" },
+    { "name": "Tambacounda", "abbreviation": "TC", "country": "SN" },
+    { "name": "Thies", "abbreviation": "TH", "country": "SN" },
     { "name": "Ziguinchor", "abbreviation": "ZG", "country": "SN" }
   ]
 }

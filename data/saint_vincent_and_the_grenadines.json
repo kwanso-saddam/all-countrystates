@@ -27,11 +27,11 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/saint_vincent_and_the_grenadines",
   "states": [
-    { "name": "Charlotte", "abbreviation": "", "country": "VC" },
-    { "name": "Grenadines", "abbreviation": "", "country": "VC" },
+    { "name": "Charlotte", "abbreviation": "01", "country": "VC" },
+    { "name": "Grenadines", "abbreviation": "06", "country": "VC" },
     { "name": "Saint Andrew", "abbreviation": "02", "country": "VC" },
-    { "name": "Saint David", "abbreviation": "", "country": "VC" },
+    { "name": "Saint David", "abbreviation": "03", "country": "VC" },
     { "name": "Saint George", "abbreviation": "03", "country": "VC" },
-    { "name": "Saint Patrick", "abbreviation": "", "country": "VC" }
+    { "name": "Saint Patrick", "abbreviation": "05", "country": "VC" }
   ]
 }

@@ -68,6 +68,6 @@
     { "name": "Eastern", "abbreviation": "HEA", "country": "SL" },
     { "name": "Northern", "abbreviation": "NO", "country": "SL" },
     { "name": "Southern", "abbreviation": "HSO", "country": "SL" },
-    { "name": "Western", "abbreviation": "", "country": "SL" }
+    { "name": "Western", "abbreviation": "800", "country": "SL" }
   ]
 }

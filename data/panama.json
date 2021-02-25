@@ -95,15 +95,15 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/panama",
   "states": [
-    { "name": "Bocas del Toro", "abbreviation": "", "country": "PA" },
-    { "name": "Chiriqui", "abbreviation": "", "country": "PA" },
-    { "name": "Cocle", "abbreviation": "", "country": "PA" },
-    { "name": "Colon", "abbreviation": "", "country": "PA" },
-    { "name": "Darien", "abbreviation": "", "country": "PA" },
-    { "name": "Herrera", "abbreviation": "", "country": "PA" },
-    { "name": "Los Santos", "abbreviation": "", "country": "PA" },
-    { "name": "Panama", "abbreviation": "", "country": "PA" },
+    { "name": "Bocas del Toro", "abbreviation": "1", "country": "PA" },
+    { "name": "Chiriqui", "abbreviation": "4", "country": "PA" },
+    { "name": "Cocle", "abbreviation": "2", "country": "PA" },
+    { "name": "Colon", "abbreviation": "3", "country": "PA" },
+    { "name": "Darien", "abbreviation": "5", "country": "PA" },
+    { "name": "Herrera", "abbreviation": "6", "country": "PA" },
+    { "name": "Los Santos", "abbreviation": "7", "country": "PA" },
+    { "name": "Panama", "abbreviation": "8", "country": "PA" },
     { "name": "San Blas", "abbreviation": "", "country": "PA" },
-    { "name": "Veraguas", "abbreviation": "", "country": "PA" }
+    { "name": "Veraguas", "abbreviation": "9", "country": "PA" }
   ]
 }

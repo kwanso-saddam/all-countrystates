@@ -33,6 +33,6 @@
   "states": [
     { "name": "Alo", "abbreviation": "WF-AL", "country": "WF" },
     { "name": "Sigave", "abbreviation": "WF-SG", "country": "WF" },
-    { "name": "Wallis", "abbreviation": "", "country": "WF" }
+    { "name": "Wallis", "abbreviation": "WF", "country": "WF" }
   ]
 }

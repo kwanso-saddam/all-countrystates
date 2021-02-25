@@ -72,7 +72,7 @@
     { "name": "Brabant Wallon", "abbreviation": "", "country": "BE" },
     { "name": "Brussels Capitol Region", "abbreviation": "", "country": "BE" },
     { "name": "Hainaut", "abbreviation": "WHT", "country": "BE" },
-    { "name": "Liege", "abbreviation": "", "country": "BE" },
+    { "name": "Liege", "abbreviation": "WLG", "country": "BE" },
     { "name": "Limburg", "abbreviation": "VLI", "country": "BE" },
     { "name": "Luxembourg", "abbreviation": "WLX", "country": "BE" },
     { "name": "Namur", "abbreviation": "WNA", "country": "BE" },

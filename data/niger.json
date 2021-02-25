@@ -101,13 +101,13 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/niger",
   "states": [
-    { "name": "Agadez", "abbreviation": "", "country": "NE" },
-    { "name": "Diffa", "abbreviation": "", "country": "NE" },
-    { "name": "Dosso", "abbreviation": "", "country": "NE" },
-    { "name": "Maradi", "abbreviation": "", "country": "NE" },
+    { "name": "Agadez", "abbreviation": "1", "country": "NE" },
+    { "name": "Diffa", "abbreviation": "2", "country": "NE" },
+    { "name": "Dosso", "abbreviation": "3", "country": "NE" },
+    { "name": "Maradi", "abbreviation": "4", "country": "NE" },
     { "name": "Niamey", "abbreviation": "", "country": "NE" },
-    { "name": "Tahoua", "abbreviation": "", "country": "NE" },
-    { "name": "Tillaberi", "abbreviation": "", "country": "NE" },
-    { "name": "Zinder", "abbreviation": "", "country": "NE" }
+    { "name": "Tahoua", "abbreviation": "5", "country": "NE" },
+    { "name": "Tillaberi", "abbreviation": "6", "country": "NE" },
+    { "name": "Zinder", "abbreviation": "7", "country": "NE" }
   ]
 }

@@ -123,11 +123,11 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/saudi_arabia",
   "states": [
-    { "name": "'Asir", "abbreviation": "", "country": "SA" },
-    { "name": "Al Bahah", "abbreviation": "", "country": "SA" },
+    { "name": "'Asir", "abbreviation": "14", "country": "SA" },
+    { "name": "Al Bahah", "abbreviation": "11", "country": "SA" },
     { "name": "Al Hudud ash Shamaliyah", "abbreviation": "", "country": "SA" },
-    { "name": "Al Jawf", "abbreviation": "", "country": "SA" },
-    { "name": "Al Madinah", "abbreviation": "", "country": "SA" },
+    { "name": "Al Jawf", "abbreviation": "12", "country": "SA" },
+    { "name": "Al Madinah", "abbreviation": "03", "country": "SA" },
     { "name": "Al Qasim", "abbreviation": "", "country": "SA" },
     { "name": "Ar Riyad", "abbreviation": "", "country": "SA" },
     {
@@ -135,10 +135,10 @@
       "abbreviation": "",
       "country": "SA"
     },
-    { "name": "Ha'il", "abbreviation": "", "country": "SA" },
-    { "name": "Jizan", "abbreviation": "", "country": "SA" },
-    { "name": "Makkah", "abbreviation": "", "country": "SA" },
-    { "name": "Najran", "abbreviation": "", "country": "SA" },
-    { "name": "Tabuk", "abbreviation": "", "country": "SA" }
+    { "name": "Ha'il", "abbreviation": "06", "country": "SA" },
+    { "name": "Jizan", "abbreviation": "09", "country": "SA" },
+    { "name": "Makkah", "abbreviation": "02", "country": "SA" },
+    { "name": "Najran", "abbreviation": "10", "country": "SA" },
+    { "name": "Tabuk", "abbreviation": "07", "country": "SA" }
   ]
 }

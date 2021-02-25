@@ -36,7 +36,7 @@
     { "name": "Atua", "abbreviation": "AT", "country": "WS" },
     { "name": "Fa'asaleleaga", "abbreviation": "FA", "country": "WS" },
     { "name": "Gaga'emauga", "abbreviation": "GE", "country": "WS" },
-    { "name": "Gagaifomauga", "abbreviation": "", "country": "WS" },
+    { "name": "Gagaifomauga", "abbreviation": "GI", "country": "WS" },
     { "name": "Palauli", "abbreviation": "PA", "country": "WS" },
     { "name": "Satupa'itea", "abbreviation": "SA", "country": "WS" },
     { "name": "Tuamasaga", "abbreviation": "TU", "country": "WS" },

@@ -73,23 +73,23 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/iraq",
   "states": [
-    { "name": "Al Anbar", "abbreviation": "", "country": "IQ" },
+    { "name": "Al Anbar", "abbreviation": "AN", "country": "IQ" },
     { "name": "Al Basrah", "abbreviation": "", "country": "IQ" },
-    { "name": "Al Muthanna", "abbreviation": "", "country": "IQ" },
+    { "name": "Al Muthanna", "abbreviation": "MU", "country": "IQ" },
     { "name": "Al Qadisiyah", "abbreviation": "", "country": "IQ" },
     { "name": "An Najaf", "abbreviation": "", "country": "IQ" },
     { "name": "Arbil", "abbreviation": "", "country": "IQ" },
     { "name": "As Sulaymaniyah", "abbreviation": "", "country": "IQ" },
     { "name": "At Ta'mim", "abbreviation": "", "country": "IQ" },
     { "name": "Babil", "abbreviation": "", "country": "IQ" },
-    { "name": "Baghdad", "abbreviation": "", "country": "IQ" },
+    { "name": "Baghdad", "abbreviation": "BG", "country": "IQ" },
     { "name": "Dahuk", "abbreviation": "", "country": "IQ" },
-    { "name": "Dhi Qar", "abbreviation": "", "country": "IQ" },
-    { "name": "Diyala", "abbreviation": "", "country": "IQ" },
+    { "name": "Dhi Qar", "abbreviation": "DQ", "country": "IQ" },
+    { "name": "Diyala", "abbreviation": "DI", "country": "IQ" },
     { "name": "Karbala'", "abbreviation": "", "country": "IQ" },
-    { "name": "Maysan", "abbreviation": "", "country": "IQ" },
+    { "name": "Maysan", "abbreviation": "MA", "country": "IQ" },
     { "name": "Ninawa", "abbreviation": "", "country": "IQ" },
     { "name": "Salah ad Din", "abbreviation": "", "country": "IQ" },
-    { "name": "Wasit", "abbreviation": "", "country": "IQ" }
+    { "name": "Wasit", "abbreviation": "WA", "country": "IQ" }
   ]
 }

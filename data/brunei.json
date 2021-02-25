@@ -51,9 +51,9 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/brunei",
   "states": [
-    { "name": "Belait", "abbreviation": "", "country": "BN" },
-    { "name": "Brunei and Muara", "abbreviation": "", "country": "BN" },
-    { "name": "Temburong", "abbreviation": "", "country": "BN" },
-    { "name": "Tutong", "abbreviation": "", "country": "BN" }
+    { "name": "Belait", "abbreviation": "BE", "country": "BN" },
+    { "name": "Brunei and Muara", "abbreviation": "BM", "country": "BN" },
+    { "name": "Temburong", "abbreviation": "TE", "country": "BN" },
+    { "name": "Tutong", "abbreviation": "TU", "country": "BN" }
   ]
 }

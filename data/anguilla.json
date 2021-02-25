@@ -26,5 +26,5 @@
     "it": "Anguilla"
   },
   "wiki": "http://en.wikipedia.org/wiki/anguilla",
-  "states": [{ "name": "Anguilla", "abbreviation": "", "country": "AI" }]
+  "states": [{ "name": "Anguilla", "abbreviation": "AI", "country": "AI" }]
 }

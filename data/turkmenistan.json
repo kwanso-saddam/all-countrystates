@@ -97,10 +97,10 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/turkmenistan",
   "states": [
-    { "name": "Ahal Welayaty", "abbreviation": "", "country": "TM" },
-    { "name": "Balkan Welayaty", "abbreviation": "", "country": "TM" },
-    { "name": "Dashhowuz Welayaty", "abbreviation": "", "country": "TM" },
-    { "name": "Lebap Welayaty", "abbreviation": "", "country": "TM" },
-    { "name": "Mary Welayaty", "abbreviation": "", "country": "TM" }
+    { "name": "Ahal Welayaty", "abbreviation": "A", "country": "TM" },
+    { "name": "Balkan Welayaty", "abbreviation": "B", "country": "TM" },
+    { "name": "Dashhowuz Welayaty", "abbreviation": "D", "country": "TM" },
+    { "name": "Lebap Welayaty", "abbreviation": "L", "country": "TM" },
+    { "name": "Mary Welayaty", "abbreviation": "M", "country": "TM" }
   ]
 }

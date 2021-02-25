@@ -33,14 +33,14 @@
   "wiki": "http://en.wikipedia.org/wiki/dominica",
   "states": [
     { "name": "Saint Andrew", "abbreviation": "02", "country": "DM" },
-    { "name": "Saint David", "abbreviation": "", "country": "DM" },
+    { "name": "Saint David", "abbreviation": "03", "country": "DM" },
     { "name": "Saint George", "abbreviation": "03", "country": "DM" },
     { "name": "Saint John", "abbreviation": "05", "country": "DM" },
     { "name": "Saint Joseph", "abbreviation": "06", "country": "DM" },
-    { "name": "Saint Luke", "abbreviation": "", "country": "DM" },
-    { "name": "Saint Mark", "abbreviation": "", "country": "DM" },
-    { "name": "Saint Patrick", "abbreviation": "", "country": "DM" },
-    { "name": "Saint Paul", "abbreviation": "", "country": "DM" },
+    { "name": "Saint Luke", "abbreviation": "07", "country": "DM" },
+    { "name": "Saint Mark", "abbreviation": "05", "country": "DM" },
+    { "name": "Saint Patrick", "abbreviation": "05", "country": "DM" },
+    { "name": "Saint Paul", "abbreviation": "06", "country": "DM" },
     { "name": "Saint Peter", "abbreviation": "09", "country": "DM" }
   ]
 }

@@ -14,9 +14,7 @@
       {
         "type": "Feature",
         "id": "DZA",
-        "properties": {
-          "name": "Algeria"
-        },
+        "properties": { "name": "Algeria" },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -89,10 +87,7 @@
       }
     ]
   },
-  "ISO": {
-    "alpha2": "DZ",
-    "alpha3": "DZA"
-  },
+  "ISO": { "alpha2": "DZ", "alpha3": "DZA" },
   "languages": ["ar"],
   "latlng": [28, 3],
   "nativeName": "الجزائر",
@@ -110,245 +105,53 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/algeria",
   "states": [
-    {
-      "name": "Adrar",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Ain Defla",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Ain Temouchent",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Alger",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Annaba",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Batna",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Bechar",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Bejaia",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Biskra",
-      "abbreviation": "07",
-      "country": "DZ"
-    },
-    {
-      "name": "Blida",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Bordj Bou Arreridj",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Bouira",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Boumerdes",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Chlef",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Constantine",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Djelfa",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "El Bayadh",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "El Oued",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "El Tarf",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Ghardaia",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Guelma",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Illizi",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Jijel",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Khenchela",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Laghouat",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "M'Sila",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Mascara",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Medea",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Mila",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Mostaganem",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Naama",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Oran",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Ouargla",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Oum el Bouaghi",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Relizane",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Saida",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Setif",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Sidi Bel Abbes",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Skikda",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Souk Ahras",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tamanghasset",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tebessa",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tiaret",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tindouf",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tipaza",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tissemsilt",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tizi Ouzou",
-      "abbreviation": "",
-      "country": "DZ"
-    },
-    {
-      "name": "Tlemcen",
-      "abbreviation": "",
-      "country": "DZ"
-    }
+    { "name": "Adrar", "abbreviation": "01", "country": "DZ" },
+    { "name": "Ain Defla", "abbreviation": "44", "country": "DZ" },
+    { "name": "Ain Temouchent", "abbreviation": "46", "country": "DZ" },
+    { "name": "Alger", "abbreviation": "", "country": "DZ" },
+    { "name": "Annaba", "abbreviation": "23", "country": "DZ" },
+    { "name": "Batna", "abbreviation": "05", "country": "DZ" },
+    { "name": "Bechar", "abbreviation": "08", "country": "DZ" },
+    { "name": "Bejaia", "abbreviation": "06", "country": "DZ" },
+    { "name": "Biskra", "abbreviation": "07", "country": "DZ" },
+    { "name": "Blida", "abbreviation": "09", "country": "DZ" },
+    { "name": "Bordj Bou Arreridj", "abbreviation": "34", "country": "DZ" },
+    { "name": "Bouira", "abbreviation": "10", "country": "DZ" },
+    { "name": "Boumerdes", "abbreviation": "35", "country": "DZ" },
+    { "name": "Chlef", "abbreviation": "02", "country": "DZ" },
+    { "name": "Constantine", "abbreviation": "25", "country": "DZ" },
+    { "name": "Djelfa", "abbreviation": "17", "country": "DZ" },
+    { "name": "El Bayadh", "abbreviation": "32", "country": "DZ" },
+    { "name": "El Oued", "abbreviation": "39", "country": "DZ" },
+    { "name": "El Tarf", "abbreviation": "36", "country": "DZ" },
+    { "name": "Ghardaia", "abbreviation": "47", "country": "DZ" },
+    { "name": "Guelma", "abbreviation": "24", "country": "DZ" },
+    { "name": "Illizi", "abbreviation": "33", "country": "DZ" },
+    { "name": "Jijel", "abbreviation": "18", "country": "DZ" },
+    { "name": "Khenchela", "abbreviation": "40", "country": "DZ" },
+    { "name": "Laghouat", "abbreviation": "03", "country": "DZ" },
+    { "name": "M'Sila", "abbreviation": "28", "country": "DZ" },
+    { "name": "Mascara", "abbreviation": "29", "country": "DZ" },
+    { "name": "Medea", "abbreviation": "26", "country": "DZ" },
+    { "name": "Mila", "abbreviation": "43", "country": "DZ" },
+    { "name": "Mostaganem", "abbreviation": "27", "country": "DZ" },
+    { "name": "Naama", "abbreviation": "45", "country": "DZ" },
+    { "name": "Oran", "abbreviation": "31", "country": "DZ" },
+    { "name": "Ouargla", "abbreviation": "30", "country": "DZ" },
+    { "name": "Oum el Bouaghi", "abbreviation": "04", "country": "DZ" },
+    { "name": "Relizane", "abbreviation": "48", "country": "DZ" },
+    { "name": "Saida", "abbreviation": "20", "country": "DZ" },
+    { "name": "Setif", "abbreviation": "19", "country": "DZ" },
+    { "name": "Sidi Bel Abbes", "abbreviation": "", "country": "DZ" },
+    { "name": "Skikda", "abbreviation": "21", "country": "DZ" },
+    { "name": "Souk Ahras", "abbreviation": "41", "country": "DZ" },
+    { "name": "Tamanghasset", "abbreviation": "11", "country": "DZ" },
+    { "name": "Tebessa", "abbreviation": "12", "country": "DZ" },
+    { "name": "Tiaret", "abbreviation": "14", "country": "DZ" },
+    { "name": "Tindouf", "abbreviation": "37", "country": "DZ" },
+    { "name": "Tipaza", "abbreviation": "", "country": "DZ" },
+    { "name": "Tissemsilt", "abbreviation": "38", "country": "DZ" },
+    { "name": "Tizi Ouzou", "abbreviation": "15", "country": "DZ" },
+    { "name": "Tlemcen", "abbreviation": "13", "country": "DZ" }
   ]
 }

@@ -29,25 +29,29 @@
   "states": [
     {
       "name": "Christ Church Nichola Town",
-      "abbreviation": "",
+      "abbreviation": "01",
       "country": "KN"
     },
-    { "name": "Saint Anne Sandy Point", "abbreviation": "", "country": "KN" },
+    { "name": "Saint Anne Sandy Point", "abbreviation": "02", "country": "KN" },
     { "name": "Saint George Basseterre", "abbreviation": "", "country": "KN" },
-    { "name": "Saint George Gingerland", "abbreviation": "", "country": "KN" },
-    { "name": "Saint James Windward", "abbreviation": "", "country": "KN" },
-    { "name": "Saint John Capisterre", "abbreviation": "", "country": "KN" },
-    { "name": "Saint John Figtree", "abbreviation": "", "country": "KN" },
-    { "name": "Saint Mary Cayon", "abbreviation": "", "country": "KN" },
-    { "name": "Saint Paul Capisterre", "abbreviation": "", "country": "KN" },
-    { "name": "Saint Paul Charlestown", "abbreviation": "", "country": "KN" },
-    { "name": "Saint Peter Basseterre", "abbreviation": "", "country": "KN" },
-    { "name": "Saint Thomas Lowland", "abbreviation": "", "country": "KN" },
+    {
+      "name": "Saint George Gingerland",
+      "abbreviation": "04",
+      "country": "KN"
+    },
+    { "name": "Saint James Windward", "abbreviation": "05", "country": "KN" },
+    { "name": "Saint John Capisterre", "abbreviation": "06", "country": "KN" },
+    { "name": "Saint John Figtree", "abbreviation": "07", "country": "KN" },
+    { "name": "Saint Mary Cayon", "abbreviation": "08", "country": "KN" },
+    { "name": "Saint Paul Capisterre", "abbreviation": "09", "country": "KN" },
+    { "name": "Saint Paul Charlestown", "abbreviation": "10", "country": "KN" },
+    { "name": "Saint Peter Basseterre", "abbreviation": "11", "country": "KN" },
+    { "name": "Saint Thomas Lowland", "abbreviation": "12", "country": "KN" },
     {
       "name": "Saint Thomas Middle Island",
       "abbreviation": "",
       "country": "KN"
     },
-    { "name": "Trinity Palmetto Point", "abbreviation": "", "country": "KN" }
+    { "name": "Trinity Palmetto Point", "abbreviation": "15", "country": "KN" }
   ]
 }

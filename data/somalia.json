@@ -85,7 +85,7 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/somalia",
   "states": [
-    { "name": "Awdal", "abbreviation": "", "country": "SO" },
+    { "name": "Awdal", "abbreviation": "AW", "country": "SO" },
     { "name": "Bakool", "abbreviation": "BK", "country": "SO" },
     { "name": "Banaadir", "abbreviation": "BN", "country": "SO" },
     { "name": "Bari", "abbreviation": "BR", "country": "SO" },
@@ -97,11 +97,11 @@
     { "name": "Jubbada Hoose", "abbreviation": "", "country": "SO" },
     { "name": "Mudug", "abbreviation": "MU", "country": "SO" },
     { "name": "Nugaal", "abbreviation": "", "country": "SO" },
-    { "name": "Sanaag", "abbreviation": "", "country": "SO" },
+    { "name": "Sanaag", "abbreviation": "SA", "country": "SO" },
     { "name": "Shabeellaha Dhexe", "abbreviation": "", "country": "SO" },
     { "name": "Shabeellaha Hoose", "abbreviation": "", "country": "SO" },
     { "name": "Sool", "abbreviation": "", "country": "SO" },
-    { "name": "Togdheer", "abbreviation": "", "country": "SO" },
+    { "name": "Togdheer", "abbreviation": "TO", "country": "SO" },
     { "name": "Woqooyi Galbeed", "abbreviation": "", "country": "SO" }
   ]
 }

@@ -81,10 +81,10 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/fiji",
   "states": [
-    { "name": "Central", "abbreviation": "", "country": "FJ" },
+    { "name": "Central", "abbreviation": "200", "country": "FJ" },
     { "name": "Eastern", "abbreviation": "HEA", "country": "FJ" },
     { "name": "Northern", "abbreviation": "NO", "country": "FJ" },
     { "name": "Rotuma", "abbreviation": "R", "country": "FJ" },
-    { "name": "Western", "abbreviation": "", "country": "FJ" }
+    { "name": "Western", "abbreviation": "800", "country": "FJ" }
   ]
 }

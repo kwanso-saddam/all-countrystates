@@ -56,12 +56,12 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/equatorial_guinea",
   "states": [
-    { "name": "Annobon", "abbreviation": "", "country": "GQ" },
-    { "name": "Bioko Norte", "abbreviation": "", "country": "GQ" },
-    { "name": "Bioko Sur", "abbreviation": "", "country": "GQ" },
-    { "name": "Centro Sur", "abbreviation": "", "country": "GQ" },
-    { "name": "Kie-Ntem", "abbreviation": "", "country": "GQ" },
-    { "name": "Litoral", "abbreviation": "", "country": "GQ" },
-    { "name": "Wele-Nzas", "abbreviation": "", "country": "GQ" }
+    { "name": "Annobon", "abbreviation": "AN", "country": "GQ" },
+    { "name": "Bioko Norte", "abbreviation": "BN", "country": "GQ" },
+    { "name": "Bioko Sur", "abbreviation": "BS", "country": "GQ" },
+    { "name": "Centro Sur", "abbreviation": "CS", "country": "GQ" },
+    { "name": "Kie-Ntem", "abbreviation": "KN", "country": "GQ" },
+    { "name": "Litoral", "abbreviation": "LI", "country": "GQ" },
+    { "name": "Wele-Nzas", "abbreviation": "WN", "country": "GQ" }
   ]
 }

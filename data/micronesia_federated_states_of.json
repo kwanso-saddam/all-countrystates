@@ -28,8 +28,8 @@
   "wiki": "http://en.wikipedia.org/wiki/micronesia_federated_states_of",
   "states": [
     { "name": "Chuuk (Truk)", "abbreviation": "", "country": "FM" },
-    { "name": "Kosrae", "abbreviation": "", "country": "FM" },
-    { "name": "Pohnpei", "abbreviation": "", "country": "FM" },
-    { "name": "Yap", "abbreviation": "", "country": "FM" }
+    { "name": "Kosrae", "abbreviation": "KSA", "country": "FM" },
+    { "name": "Pohnpei", "abbreviation": "PNI", "country": "FM" },
+    { "name": "Yap", "abbreviation": "YAP", "country": "FM" }
   ]
 }

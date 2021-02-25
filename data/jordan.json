@@ -74,9 +74,9 @@
     { "name": "Al Mafraq", "abbreviation": "", "country": "JO" },
     { "name": "At Tafilah", "abbreviation": "", "country": "JO" },
     { "name": "Az Zarqa'", "abbreviation": "", "country": "JO" },
-    { "name": "Irbid", "abbreviation": "", "country": "JO" },
+    { "name": "Irbid", "abbreviation": "IR", "country": "JO" },
     { "name": "Jarash", "abbreviation": "", "country": "JO" },
-    { "name": "Ma'an", "abbreviation": "", "country": "JO" },
-    { "name": "Madaba", "abbreviation": "", "country": "JO" }
+    { "name": "Ma'an", "abbreviation": "MN", "country": "JO" },
+    { "name": "Madaba", "abbreviation": "MD", "country": "JO" }
   ]
 }

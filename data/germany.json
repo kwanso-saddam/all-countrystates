@@ -18,9 +18,7 @@
       {
         "type": "Feature",
         "id": "DEU",
-        "properties": {
-          "name": "Germany"
-        },
+        "properties": { "name": "Germany" },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -89,10 +87,7 @@
       }
     ]
   },
-  "ISO": {
-    "alpha2": "DE",
-    "alpha3": "DEU"
-  },
+  "ISO": { "alpha2": "DE", "alpha3": "DEU" },
   "languages": ["de"],
   "latlng": [51, 9],
   "nativeName": "Deutschland",
@@ -110,85 +105,21 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/germany",
   "states": [
-    {
-      "name": "Baden-Wuerttemberg",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Bayern",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Berlin",
-      "abbreviation": "BE",
-      "country": "DE"
-    },
-    {
-      "name": "Brandenburg",
-      "abbreviation": "BB",
-      "country": "DE"
-    },
-    {
-      "name": "Bremen",
-      "abbreviation": "HB",
-      "country": "DE"
-    },
-    {
-      "name": "Hamburg",
-      "abbreviation": "HH",
-      "country": "DE"
-    },
-    {
-      "name": "Hessen",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Mecklenburg-Vorpommern",
-      "abbreviation": "MV",
-      "country": "DE"
-    },
-    {
-      "name": "Niedersachsen",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Nordrhein-Westfalen",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Rheinland-Pfalz",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Saarland",
-      "abbreviation": "SL",
-      "country": "DE"
-    },
-    {
-      "name": "Sachsen",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Sachsen-Anhalt",
-      "abbreviation": "",
-      "country": "DE"
-    },
-    {
-      "name": "Schleswig-Holstein",
-      "abbreviation": "SH",
-      "country": "DE"
-    },
-    {
-      "name": "Thueringen",
-      "abbreviation": "",
-      "country": "DE"
-    }
+    { "name": "Baden-Wuerttemberg", "abbreviation": "", "country": "DE" },
+    { "name": "Bayern", "abbreviation": "", "country": "DE" },
+    { "name": "Berlin", "abbreviation": "BE", "country": "DE" },
+    { "name": "Brandenburg", "abbreviation": "BB", "country": "DE" },
+    { "name": "Bremen", "abbreviation": "HB", "country": "DE" },
+    { "name": "Hamburg", "abbreviation": "HH", "country": "DE" },
+    { "name": "Hessen", "abbreviation": "", "country": "DE" },
+    { "name": "Mecklenburg-Vorpommern", "abbreviation": "MV", "country": "DE" },
+    { "name": "Niedersachsen", "abbreviation": "", "country": "DE" },
+    { "name": "Nordrhein-Westfalen", "abbreviation": "", "country": "DE" },
+    { "name": "Rheinland-Pfalz", "abbreviation": "", "country": "DE" },
+    { "name": "Saarland", "abbreviation": "SL", "country": "DE" },
+    { "name": "Sachsen", "abbreviation": "", "country": "DE" },
+    { "name": "Sachsen-Anhalt", "abbreviation": "", "country": "DE" },
+    { "name": "Schleswig-Holstein", "abbreviation": "SH", "country": "DE" },
+    { "name": "Thueringen", "abbreviation": "", "country": "DE" }
   ]
 }

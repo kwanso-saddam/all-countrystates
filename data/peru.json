@@ -120,8 +120,8 @@
   "wiki": "http://en.wikipedia.org/wiki/peru",
   "states": [
     { "name": "Amazonas", "abbreviation": "AM", "country": "PE" },
-    { "name": "Ancash", "abbreviation": "", "country": "PE" },
-    { "name": "Apurimac", "abbreviation": "", "country": "PE" },
+    { "name": "Ancash", "abbreviation": "ANC", "country": "PE" },
+    { "name": "Apurimac", "abbreviation": "APU", "country": "PE" },
     { "name": "Arequipa", "abbreviation": "ARE", "country": "PE" },
     { "name": "Ayacucho", "abbreviation": "AYA", "country": "PE" },
     { "name": "Cajamarca", "abbreviation": "CAJ", "country": "PE" },
@@ -130,7 +130,7 @@
     { "name": "Huancavelica", "abbreviation": "HUV", "country": "PE" },
     { "name": "Huanuco", "abbreviation": "HUC", "country": "PE" },
     { "name": "Ica", "abbreviation": "ICA", "country": "PE" },
-    { "name": "Junin", "abbreviation": "", "country": "PE" },
+    { "name": "Junin", "abbreviation": "JUN", "country": "PE" },
     { "name": "La Libertad", "abbreviation": "LAL", "country": "PE" },
     { "name": "Lambayeque", "abbreviation": "LAM", "country": "PE" },
     { "name": "Lima", "abbreviation": "LIM", "country": "PE" },
@@ -140,7 +140,7 @@
     { "name": "Pasco", "abbreviation": "PAS", "country": "PE" },
     { "name": "Piura", "abbreviation": "PIU", "country": "PE" },
     { "name": "Puno", "abbreviation": "PUN", "country": "PE" },
-    { "name": "San Martin", "abbreviation": "", "country": "PE" },
+    { "name": "San Martin", "abbreviation": "SAM", "country": "PE" },
     { "name": "Tacna", "abbreviation": "TAC", "country": "PE" },
     { "name": "Tumbes", "abbreviation": "TUM", "country": "PE" },
     { "name": "Ucayali", "abbreviation": "UCA", "country": "PE" }

@@ -29,7 +29,7 @@
   "states": [
     { "name": "Boa Vista", "abbreviation": "BV", "country": "CV" },
     { "name": "Brava", "abbreviation": "BR", "country": "CV" },
-    { "name": "Maio", "abbreviation": "", "country": "CV" },
+    { "name": "Maio", "abbreviation": "MA", "country": "CV" },
     { "name": "Mosteiros", "abbreviation": "MO", "country": "CV" },
     { "name": "Paul", "abbreviation": "PA", "country": "CV" },
     { "name": "Porto Novo", "abbreviation": "PN", "country": "CV" },
@@ -38,10 +38,10 @@
     { "name": "Sal", "abbreviation": "SL", "country": "CV" },
     { "name": "Santa Catarina", "abbreviation": "SC", "country": "CV" },
     { "name": "Santa Cruz", "abbreviation": "CR", "country": "CV" },
-    { "name": "Sao Domingos", "abbreviation": "", "country": "CV" },
-    { "name": "Sao Filipe", "abbreviation": "", "country": "CV" },
+    { "name": "Sao Domingos", "abbreviation": "SD", "country": "CV" },
+    { "name": "Sao Filipe", "abbreviation": "SF", "country": "CV" },
     { "name": "Sao Nicolau", "abbreviation": "", "country": "CV" },
-    { "name": "Sao Vicente", "abbreviation": "", "country": "CV" },
+    { "name": "Sao Vicente", "abbreviation": "SV", "country": "CV" },
     { "name": "Tarrafal", "abbreviation": "TA", "country": "CV" }
   ]
 }

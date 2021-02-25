@@ -31,8 +31,8 @@
     { "name": "Redonda", "abbreviation": 11, "country": "AG" },
     { "name": "Saint George", "abbreviation": "03", "country": "AG" },
     { "name": "Saint John", "abbreviation": "05", "country": "AG" },
-    { "name": "Saint Mary", "abbreviation": "", "country": "AG" },
-    { "name": "Saint Paul", "abbreviation": "", "country": "AG" },
+    { "name": "Saint Mary", "abbreviation": "05", "country": "AG" },
+    { "name": "Saint Paul", "abbreviation": "06", "country": "AG" },
     { "name": "Saint Peter", "abbreviation": "09", "country": "AG" },
     { "name": "Saint Philip", "abbreviation": 10, "country": "AG" }
   ]

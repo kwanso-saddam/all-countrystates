@@ -74,14 +74,14 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/gabon",
   "states": [
-    { "name": "Estuaire", "abbreviation": "", "country": "GA" },
-    { "name": "Haut-Ogooue", "abbreviation": "", "country": "GA" },
-    { "name": "Moyen-Ogooue", "abbreviation": "", "country": "GA" },
-    { "name": "Ngounie", "abbreviation": "", "country": "GA" },
-    { "name": "Nyanga", "abbreviation": "", "country": "GA" },
-    { "name": "Ogooue-Ivindo", "abbreviation": "", "country": "GA" },
-    { "name": "Ogooue-Lolo", "abbreviation": "", "country": "GA" },
-    { "name": "Ogooue-Maritime", "abbreviation": "", "country": "GA" },
-    { "name": "Woleu-Ntem", "abbreviation": "", "country": "GA" }
+    { "name": "Estuaire", "abbreviation": "1", "country": "GA" },
+    { "name": "Haut-Ogooue", "abbreviation": "2", "country": "GA" },
+    { "name": "Moyen-Ogooue", "abbreviation": "3", "country": "GA" },
+    { "name": "Ngounie", "abbreviation": "4", "country": "GA" },
+    { "name": "Nyanga", "abbreviation": "5", "country": "GA" },
+    { "name": "Ogooue-Ivindo", "abbreviation": "6", "country": "GA" },
+    { "name": "Ogooue-Lolo", "abbreviation": "7", "country": "GA" },
+    { "name": "Ogooue-Maritime", "abbreviation": "8", "country": "GA" },
+    { "name": "Woleu-Ntem", "abbreviation": "9", "country": "GA" }
   ]
 }

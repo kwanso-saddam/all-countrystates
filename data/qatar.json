@@ -60,6 +60,6 @@
     { "name": "Ar Rayyan", "abbreviation": "", "country": "QA" },
     { "name": "Jarayan al Batinah", "abbreviation": "", "country": "QA" },
     { "name": "Madinat ash Shamal", "abbreviation": "MS", "country": "QA" },
-    { "name": "Umm Salal", "abbreviation": "", "country": "QA" }
+    { "name": "Umm Salal", "abbreviation": "US", "country": "QA" }
   ]
 }

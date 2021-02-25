@@ -106,13 +106,13 @@
   "states": [
     { "name": "Adamaoua", "abbreviation": "", "country": "CM" },
     { "name": "Centre", "abbreviation": "03", "country": "CM" },
-    { "name": "Est", "abbreviation": "", "country": "CM" },
+    { "name": "Est", "abbreviation": "08", "country": "CM" },
     { "name": "Extreme-Nord", "abbreviation": "", "country": "CM" },
     { "name": "Littoral", "abbreviation": "LT", "country": "CM" },
     { "name": "Nord", "abbreviation": "ND", "country": "CM" },
     { "name": "Nord-Ouest", "abbreviation": "NO", "country": "CM" },
     { "name": "Ouest", "abbreviation": "OU", "country": "CM" },
     { "name": "Sud", "abbreviation": "SD", "country": "CM" },
-    { "name": "Sud-Ouest", "abbreviation": "", "country": "CM" }
+    { "name": "Sud-Ouest", "abbreviation": "13", "country": "CM" }
   ]
 }

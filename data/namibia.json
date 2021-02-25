@@ -88,17 +88,17 @@
   "wiki": "http://en.wikipedia.org/wiki/namibia",
   "states": [
     { "name": "Caprivi", "abbreviation": "", "country": "NA" },
-    { "name": "Erongo", "abbreviation": "", "country": "NA" },
-    { "name": "Hardap", "abbreviation": "", "country": "NA" },
-    { "name": "Karas", "abbreviation": "", "country": "NA" },
-    { "name": "Khomas", "abbreviation": "", "country": "NA" },
-    { "name": "Kunene", "abbreviation": "", "country": "NA" },
-    { "name": "Ohangwena", "abbreviation": "", "country": "NA" },
+    { "name": "Erongo", "abbreviation": "ER", "country": "NA" },
+    { "name": "Hardap", "abbreviation": "HA", "country": "NA" },
+    { "name": "Karas", "abbreviation": "KA", "country": "NA" },
+    { "name": "Khomas", "abbreviation": "KH", "country": "NA" },
+    { "name": "Kunene", "abbreviation": "KU", "country": "NA" },
+    { "name": "Ohangwena", "abbreviation": "OW", "country": "NA" },
     { "name": "Okavango", "abbreviation": "", "country": "NA" },
-    { "name": "Omaheke", "abbreviation": "", "country": "NA" },
-    { "name": "Omusati", "abbreviation": "", "country": "NA" },
-    { "name": "Oshana", "abbreviation": "", "country": "NA" },
-    { "name": "Oshikoto", "abbreviation": "", "country": "NA" },
-    { "name": "Otjozondjupa", "abbreviation": "", "country": "NA" }
+    { "name": "Omaheke", "abbreviation": "OH", "country": "NA" },
+    { "name": "Omusati", "abbreviation": "OS", "country": "NA" },
+    { "name": "Oshana", "abbreviation": "ON", "country": "NA" },
+    { "name": "Oshikoto", "abbreviation": "OT", "country": "NA" },
+    { "name": "Otjozondjupa", "abbreviation": "OD", "country": "NA" }
   ]
 }

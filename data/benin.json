@@ -68,17 +68,17 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/benin",
   "states": [
-    { "name": "Alibori", "abbreviation": "", "country": "BJ" },
-    { "name": "Atakora", "abbreviation": "", "country": "BJ" },
-    { "name": "Atlantique", "abbreviation": "", "country": "BJ" },
-    { "name": "Borgou", "abbreviation": "", "country": "BJ" },
-    { "name": "Collines", "abbreviation": "", "country": "BJ" },
-    { "name": "Couffo", "abbreviation": "", "country": "BJ" },
-    { "name": "Donga", "abbreviation": "", "country": "BJ" },
+    { "name": "Alibori", "abbreviation": "AL", "country": "BJ" },
+    { "name": "Atakora", "abbreviation": "AK", "country": "BJ" },
+    { "name": "Atlantique", "abbreviation": "AQ", "country": "BJ" },
+    { "name": "Borgou", "abbreviation": "BO", "country": "BJ" },
+    { "name": "Collines", "abbreviation": "CO", "country": "BJ" },
+    { "name": "Kouffo", "abbreviation": "KO", "country": "BJ" },
+    { "name": "Donga", "abbreviation": "DO", "country": "BJ" },
     { "name": "Littoral", "abbreviation": "LT", "country": "BJ" },
-    { "name": "Mono", "abbreviation": "", "country": "BJ" },
-    { "name": "Oueme", "abbreviation": "", "country": "BJ" },
-    { "name": "Plateau", "abbreviation": "", "country": "BJ" },
-    { "name": "Zou", "abbreviation": "", "country": "BJ" }
+    { "name": "Mono", "abbreviation": "MO", "country": "BJ" },
+    { "name": "Oueme", "abbreviation": "OU", "country": "BJ" },
+    { "name": "Plateau", "abbreviation": "PL", "country": "BJ" },
+    { "name": "Zou", "abbreviation": "ZO", "country": "BJ" }
   ]
 }

@@ -62,18 +62,18 @@
   "states": [
     { "name": "Banteay Mean Cheay", "abbreviation": "", "country": "KH" },
     { "name": "Batdambang", "abbreviation": "", "country": "KH" },
-    { "name": "Kampong Cham", "abbreviation": "", "country": "KH" },
-    { "name": "Kampong Chhnang", "abbreviation": "", "country": "KH" },
+    { "name": "Kampong Cham", "abbreviation": "3", "country": "KH" },
+    { "name": "Kampong Chhnang", "abbreviation": "4", "country": "KH" },
     { "name": "Kampong Spoe", "abbreviation": "", "country": "KH" },
     { "name": "Kampong Thum", "abbreviation": "", "country": "KH" },
-    { "name": "Kampot", "abbreviation": "", "country": "KH" },
-    { "name": "Kandal", "abbreviation": "", "country": "KH" },
+    { "name": "Kampot", "abbreviation": "7", "country": "KH" },
+    { "name": "Kandal", "abbreviation": "8", "country": "KH" },
     { "name": "Kaoh Kong", "abbreviation": "", "country": "KH" },
     { "name": "Keb", "abbreviation": "", "country": "KH" },
     { "name": "Kracheh", "abbreviation": "", "country": "KH" },
     { "name": "Mondol Kiri", "abbreviation": "", "country": "KH" },
     { "name": "Otdar Mean Cheay", "abbreviation": "", "country": "KH" },
-    { "name": "Pailin", "abbreviation": "", "country": "KH" },
+    { "name": "Pailin", "abbreviation": "24", "country": "KH" },
     { "name": "Phnum Penh", "abbreviation": "", "country": "KH" },
     { "name": "Pouthisat", "abbreviation": "", "country": "KH" },
     {
@@ -81,12 +81,12 @@
       "abbreviation": "",
       "country": "KH"
     },
-    { "name": "Preah Vihear", "abbreviation": "", "country": "KH" },
-    { "name": "Prey Veng", "abbreviation": "", "country": "KH" },
+    { "name": "Preah Vihear", "abbreviation": "13", "country": "KH" },
+    { "name": "Prey Veng", "abbreviation": "14", "country": "KH" },
     { "name": "Rotanah Kiri", "abbreviation": "", "country": "KH" },
     { "name": "Siem Reab", "abbreviation": "", "country": "KH" },
     { "name": "Stoeng Treng", "abbreviation": "", "country": "KH" },
-    { "name": "Svay Rieng", "abbreviation": "", "country": "KH" },
+    { "name": "Svay Rieng", "abbreviation": "20", "country": "KH" },
     { "name": "Takev", "abbreviation": "", "country": "KH" }
   ]
 }

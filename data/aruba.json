@@ -1,40 +1,23 @@
 {
   "name": "Aruba",
-  "altSpellings": [
-    "AW"
-  ],
+  "altSpellings": ["AW"],
   "area": 180,
   "borders": [],
-  "callingCodes": [
-    "297"
-  ],
+  "callingCodes": ["297"],
   "capital": "Oranjestad",
-  "currencies": [
-    "AWG"
-  ],
+  "currencies": ["AWG"],
   "demonym": "Aruban",
   "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
   "geoJSON": {},
-  "ISO": {
-    "alpha2": "AW",
-    "alpha3": "ABW"
-  },
-  "languages": [
-    "nl",
-    "pa"
-  ],
-  "latlng": [
-    12.5,
-    -69.96666666
-  ],
+  "ISO": { "alpha2": "AW", "alpha3": "ABW" },
+  "languages": ["nl", "pa"],
+  "latlng": [12.5, -69.96666666],
   "nativeName": "Aruba",
   "population": 101484,
   "region": "Americas",
   "subregion": "Caribbean",
   "timezones": null,
-  "tld": [
-    ".aw"
-  ],
+  "tld": [".aw"],
   "translations": {
     "de": "Aruba",
     "es": "Aruba",
@@ -43,11 +26,5 @@
     "it": "Aruba"
   },
   "wiki": "http://en.wikipedia.org/wiki/aruba",
-  "states": [
-    {
-      "name": "Aruba",
-      "abbreviation": "",
-      "country": "AW"
-    }
-  ]
+  "states": [{ "name": "Aruba", "abbreviation": "AW", "country": "AW" }]
 }

@@ -92,16 +92,16 @@
   },
   "wiki": "http://en.wikipedia.org/wiki/congo_democratic_republic_of_the",
   "states": [
-    { "name": "Bandundu", "abbreviation": "", "country": "CG" },
-    { "name": "Bas-Congo", "abbreviation": "", "country": "CG" },
-    { "name": "Equateur", "abbreviation": "", "country": "CG" },
-    { "name": "Kasai-Occidental", "abbreviation": "", "country": "CG" },
-    { "name": "Kasai-Oriental", "abbreviation": "", "country": "CG" },
-    { "name": "Katanga", "abbreviation": "", "country": "CG" },
+    { "name": "Bandundu", "abbreviation": "BN", "country": "CG" },
+    { "name": "Bas-Congo", "abbreviation": "BC", "country": "CG" },
+    { "name": "Equateur", "abbreviation": "EQ", "country": "CG" },
+    { "name": "Kasai-Occidental", "abbreviation": "KW", "country": "CG" },
+    { "name": "Kasai-Oriental", "abbreviation": "KE", "country": "CG" },
+    { "name": "Katanga", "abbreviation": "KA", "country": "CG" },
     { "name": "Kinshasa", "abbreviation": "KN", "country": "CG" },
     { "name": "Maniema", "abbreviation": "MA", "country": "CG" },
     { "name": "Nord-Kivu", "abbreviation": "", "country": "CG" },
-    { "name": "Orientale", "abbreviation": "", "country": "CG" },
+    { "name": "Orientale", "abbreviation": "OR", "country": "CG" },
     { "name": "Sud-Kivu", "abbreviation": "", "country": "CG" }
   ]
 }
